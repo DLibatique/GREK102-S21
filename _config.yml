@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+include:          ['_pages']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Intro to Greek 2
+tagline:          'GREK 102'
+course_number:    'GREK 102'
+section_number:   '02'
+semester:         'Spring 2021'
+url:              https://libatique.info/GREK102-S21
+baseurl:          /
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://libatique.info
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/dlibatique/GREK102-S21
