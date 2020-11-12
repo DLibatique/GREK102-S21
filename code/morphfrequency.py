@@ -7,8 +7,28 @@ import matplotlib.pyplot as plt
 import re
 import requests
 
-url = requests.get("https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg004.perseus-grc1.tb.xml")
+# get url base from perseus github repo
+url_base = "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/"
 
+# key authors to tlg codes
+author = {
+    "Sophocles": "tlg0011",
+}
+
+# key works to tlg code and rest of url string
+work = {
+    # Sophocles
+    "Trachiniae": ".tlg001.perseus-grc2.tb.xml",
+    "Antigone": ".tlg002.perseus-grc2.tb.xml",
+    "Ajax": ".tlg003.perseus-grc1.tb.xml",
+    "Oedipus Tyrannus": ".tlg004.perseus-grc1.tb.xml",
+    "Electra": ".tlg005.perseus.grc2.tb.xml",
+}
+
+# create full url to request
+url = requests.get(url_base + author["Sophocles"] + work["Oedipus Tyrannus"])
+
+# turn request into beautifulsoup object
 bs_content = bs(url.text, 'lxml')
 
 # content = []
@@ -90,6 +110,169 @@ verb_combos = {
     "perf_mp_part": r"v-(s|p|d)rpe(m|f|n)(n|g|d|a|v|l)-",
     "futpf_mp_part": r"v-(s|p|d)tpe(m|f|n)(n|g|d|a|v|l)-",
 }
+
+noun_combos = {
+
+    # masculine
+    "masc_nom_sg": r"n-s---mn-",
+    "masc_gen_sg": r"n-s---mg-",
+    "masc_dat_sg": r"n-s---md-",
+    "masc_acc_sg": r"n-s---ma-",
+    "masc_voc_sg": r"n-s---mv-",
+    "masc_loc_sg": r"n-s---ml-",
+    "masc_nom_pl": r"n-p---mn-",
+    "masc_gen_pl": r"n-p---mg-",
+    "masc_dat_pl": r"n-p---md-",
+    "masc_acc_pl": r"n-p---ma-",
+    "masc_voc_pl": r"n-p---mv-",
+    "masc_loc_pl": r"n-p---ml-",
+
+    # feminine
+    "fem_nom_sg": r"n-s---fn-",
+    "fem_gen_sg": r"n-s---fg-",
+    "fem_dat_sg": r"n-s---fd-",
+    "fem_acc_sg": r"n-s---fa-",
+    "fem_voc_sg": r"n-s---fv-",
+    "fem_loc_sg": r"n-s---fl-",
+    "fem_nom_pl": r"n-p---fn-",
+    "fem_gen_pl": r"n-p---fg-",
+    "fem_dat_pl": r"n-p---fd-",
+    "fem_acc_pl": r"n-p---fa-",
+    "fem_voc_pl": r"n-p---fv-",
+    "fem_loc_pl": r"n-p---fl-",
+
+    # neuter
+    "neut_nom_sg": r"n-s---nn-",
+    "neut_gen_sg": r"n-s---ng-",
+    "neut_dat_sg": r"n-s---nd-",
+    "neut_acc_sg": r"n-s---na-",
+    "neut_voc_sg": r"n-s---nv-",
+    "neut_loc_sg": r"n-s---nl-",
+    "neut_nom_pl": r"n-p---nn-",
+    "neut_gen_pl": r"n-p---ng-",
+    "neut_dat_pl": r"n-p---nd-",
+    "neut_acc_pl": r"n-p---na-",
+    "neut_voc_pl": r"n-p---nv-",
+    "neut_loc_pl": r"n-p---nl-",
+}
+
+adjective_combos = {
+
+    # masculine
+    "masc_nom_sg_pos": r"a-s---mn-",
+    "masc_gen_sg_pos": r"a-s---mg-",
+    "masc_dat_sg_pos": r"a-s---md-",
+    "masc_acc_sg_pos": r"a-s---ma-",
+    "masc_voc_sg_pos": r"a-s---mv-",
+    "masc_loc_sg_pos": r"a-s---ml-",
+    "masc_nom_sg_comp": r"a-s---mnc",
+    "masc_gen_sg_comp": r"a-s---mgc",
+    "masc_dat_sg_comp": r"a-s---mdc",
+    "masc_acc_sg_comp": r"a-s---mac",
+    "masc_voc_sg_comp": r"a-s---mvc",
+    "masc_loc_sg_comp": r"a-s---mlc",
+    "masc_nom_sg_superl": r"a-s---mns",
+    "masc_gen_sg_superl": r"a-s---mgs",
+    "masc_dat_sg_superl": r"a-s---mds",
+    "masc_acc_sg_superl": r"a-s---mas",
+    "masc_voc_sg_superl": r"a-s---mvs",
+    "masc_loc_sg_superl": r"a-s---mls",
+    "masc_nom_pl_pos": r"a-p---mn-",
+    "masc_gen_pl_pos": r"a-p---mg-",
+    "masc_dat_pl_pos": r"a-p---md-",
+    "masc_acc_pl_pos": r"a-p---ma-",
+    "masc_voc_pl_pos": r"a-p---mv-",
+    "masc_loc_pl_pos": r"a-p---ml-",
+    "masc_nom_pl_comp": r"a-p---mnc",
+    "masc_gen_pl_comp": r"a-p---mgc",
+    "masc_dat_pl_comp": r"a-p---mdc",
+    "masc_acc_pl_comp": r"a-p---mac",
+    "masc_voc_pl_comp": r"a-p---mvc",
+    "masc_loc_pl_comp": r"a-p---mlc",
+    "masc_nom_pl_superl": r"a-p---mns",
+    "masc_gen_pl_superl": r"a-p---mgs",
+    "masc_dat_pl_superl": r"a-p---mds",
+    "masc_acc_pl_superl": r"a-p---mas",
+    "masc_voc_pl_superl": r"a-p---mvs",
+    "masc_loc_pl_superl": r"a-p---mls",
+
+    # feminine
+    "fem_nom_sg_pos": r"a-s---fn-",
+    "fem_gen_sg_pos": r"a-s---fg-",
+    "fem_dat_sg_pos": r"a-s---fd-",
+    "fem_acc_sg_pos": r"a-s---fa-",
+    "fem_voc_sg_pos": r"a-s---fv-",
+    "fem_loc_sg_pos": r"a-s---fl-",
+    "fem_nom_sg_comp": r"a-s---fnc",
+    "fem_gen_sg_comp": r"a-s---fgc",
+    "fem_dat_sg_comp": r"a-s---fdc",
+    "fem_acc_sg_comp": r"a-s---fac",
+    "fem_voc_sg_comp": r"a-s---fvc",
+    "fem_loc_sg_comp": r"a-s---flc",
+    "fem_nom_sg_superl": r"a-s---fns",
+    "fem_gen_sg_superl": r"a-s---fgs",
+    "fem_dat_sg_superl": r"a-s---fds",
+    "fem_acc_sg_superl": r"a-s---fas",
+    "fem_voc_sg_superl": r"a-s---fvs",
+    "fem_loc_sg_superl": r"a-s---fls",
+    "fem_nom_pl_pos": r"a-p---fn-",
+    "fem_gen_pl_pos": r"a-p---fg-",
+    "fem_dat_pl_pos": r"a-p---fd-",
+    "fem_acc_pl_pos": r"a-p---fa-",
+    "fem_voc_pl_pos": r"a-p---fv-",
+    "fem_loc_pl_pos": r"a-p---fl-",
+    "fem_nom_pl_comp": r"a-p---fnc",
+    "fem_gen_pl_comp": r"a-p---fgc",
+    "fem_dat_pl_comp": r"a-p---fdc",
+    "fem_acc_pl_comp": r"a-p---fac",
+    "fem_voc_pl_comp": r"a-p---fvc",
+    "fem_loc_pl_comp": r"a-p---flc",
+    "fem_nom_pl_superl": r"a-p---fns",
+    "fem_gen_pl_superl": r"a-p---fgs",
+    "fem_dat_pl_superl": r"a-p---fds",
+    "fem_acc_pl_superl": r"a-p---fas",
+    "fem_voc_pl_superl": r"a-p---fvs",
+    "fem_loc_pl_superl": r"a-p---fls",
+
+    # neuter
+    "neut_nom_sg_pos": r"a-s---nn-",
+    "neut_gen_sg_pos": r"a-s---ng-",
+    "neut_dat_sg_pos": r"a-s---nd-",
+    "neut_acc_sg_pos": r"a-s---na-",
+    "neut_voc_sg_pos": r"a-s---nv-",
+    "neut_loc_sg_pos": r"a-s---nl-",
+    "neut_nom_sg_comp": r"a-s---nnc",
+    "neut_gen_sg_comp": r"a-s---ngc",
+    "neut_dat_sg_comp": r"a-s---ndc",
+    "neut_acc_sg_comp": r"a-s---nac",
+    "neut_voc_sg_comp": r"a-s---nvc",
+    "neut_loc_sg_comp": r"a-s---nlc",
+    "neut_nom_sg_superl": r"a-s---nns",
+    "neut_gen_sg_superl": r"a-s---ngs",
+    "neut_dat_sg_superl": r"a-s---nds",
+    "neut_acc_sg_superl": r"a-s---nas",
+    "neut_voc_sg_superl": r"a-s---nvs",
+    "neut_loc_sg_superl": r"a-s---nls",
+    "neut_nom_pl_pos": r"a-p---nn-",
+    "neut_gen_pl_pos": r"a-p---ng-",
+    "neut_dat_pl_pos": r"a-p---nd-",
+    "neut_acc_pl_pos": r"a-p---na-",
+    "neut_voc_pl_pos": r"a-p---nv-",
+    "neut_loc_pl_pos": r"a-p---nl-",
+    "neut_nom_pl_comp": r"a-p---nnc",
+    "neut_gen_pl_comp": r"a-p---ngc",
+    "neut_dat_pl_comp": r"a-p---ndc",
+    "neut_acc_pl_comp": r"a-p---nac",
+    "neut_voc_pl_comp": r"a-p---nvc",
+    "neut_loc_pl_comp": r"a-p---nlc",
+    "neut_nom_pl_superl": r"a-p---nns",
+    "neut_gen_pl_superl": r"a-p---ngs",
+    "neut_dat_pl_superl": r"a-p---nds",
+    "neut_acc_pl_superl": r"a-p---nas",
+    "neut_voc_pl_superl": r"a-p---nvs",
+    "neut_loc_pl_superl": r"a-p---nls",
+}
+
 
 # get counts for each verb aspect combo
 verb_combo_stats = []
