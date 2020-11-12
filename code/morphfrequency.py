@@ -5,12 +5,17 @@ import pprint
 import numpy as np
 import matplotlib.pyplot as plt
 import re
+import requests
 
-content = []
-with open('soph-ot-treebank.xml', 'r') as file:
-     content = file.readlines()
-     content = "".join(content)
-     bs_content = bs(content, 'lxml')
+url = requests.get("https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg004.perseus-grc1.tb.xml")
+
+bs_content = bs(url.text, 'lxml')
+
+# content = []
+# with open('soph-ot-treebank.xml', 'r') as file:
+#      content = file.readlines()
+#      content = "".join(content)
+#      bs_content = bs(content, 'lxml')
 
 sentences = bs_content.find_all("sentence")
 
