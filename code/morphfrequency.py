@@ -156,7 +156,7 @@ noun_combos = {
     "neut_loc_pl": r"n-p---nl-",
 }
 
-adjective_combos = {
+adj_combos = {
 
     # masculine
     "masc_nom_sg_pos": r"a-s---mn-",
@@ -287,6 +287,31 @@ for x in verb_combos:
 # sort most to least
 verb_combo_stats = sorted(verb_combo_stats, key=lambda y: y[1], reverse=True)
 
+# get counts for each noun aspect combo
+noun_combo_stats = []
+for x in noun_combos:
+    counter = 0
+    for w in bs_content.find_all("word"):
+        if w.get("postag"):
+            if re.match(noun_combos[x], w.get("postag")):
+                counter += 1
+    noun_combo_stats.append((x, counter))
+
+# sort most to least
+noun_combo_stats = sorted(noun_combo_stats, key=lambda y: y[1], reverse=True)
+
+adj_combo_stats = []
+for x in adj_combos:
+    counter = 0
+    for w in bs_content.find_all("word"):
+        if w.get("postag"):
+            if re.match(adj_combos[x], w.get("postag")):
+                counter += 1
+    adj_combo_stats.append((x, counter))
+
+# sort most to least
+adj_combo_stats = sorted(adj_combo_stats, key=lambda y: y[1], reverse=True)
+
 # # graph verb aspect combo stats
 # verb_combo_list = [x[0] for x in verb_combo_stats]
 # combo_frequencies = [x[1] for x in verb_combo_stats]
@@ -299,201 +324,602 @@ verb_combo_stats = sorted(verb_combo_stats, key=lambda y: y[1], reverse=True)
 # plt.show()
 
 
-def find_verb_combo(bs_object):
+def find_combo(bs_object):
+
     '''
-    function to generate passages with requested verb aspects
+    function to generate passages with requested aspects for POS
     input: beautiful soup scraped xml object
     output: printed passage citations, word form, and postag
     '''
+
     search_string = r''
-    request = input('What part of speech do you want to search?: ')
-    if request == 'verb':
+    request = ''
 
-        search_string += 'v'
-
-        category = input('finite, infinitive, or participle?: ')
-
-        if category == "infinitive":
-            search_string += '--'
-
-            tense = input("What tense? (If it doesn't matter, enter 'x'): ")
-            if tense == "present":
-                search_string += 'pn'
-            elif tense == "future":
-                search_string += 'fn'
-            elif tense == "aorist":
-                search_string += 'an'
-            elif tense == "perfect":
-                search_string += 'rn'
-            elif tense == "future perfect":
-                search_string += 'tn'
-            elif tense == "x":
-                search_string += '(p|f|a|r|t)n'
-            else:
-                pass
-
-            voice = input("What voice? (If it doesn't matter, enter 'x'): ")
-            if voice == "active":
-                search_string += 'a---'
-            elif voice == "middle":
-                search_string += 'm---'
-            elif voice == 'passive':
-                search_string += 'p---'
-            elif voice == 'medio-passive':
-                search_string += 'e---'
-            elif voice == 'x':
-                search_string += '(a|m|p|e)---'
-            else:
-                pass
-
-        elif category == 'participle':
-
-            search_string += '-'
-
-            number = input("What number? (If it doesn't matter, enter 'x'): ")
-            if number == 'singular':
-                search_string += 's'
-            elif number == 'plural':
-                search_string += 'p'
-            elif number == 'dual':
-                search_string += 'd'
-            elif number == 'x':
-                search_string += '(s|p|d)'
-
-            tense = input("What tense? (If it doesn't matter, enter 'x'): ")
-            if tense == "present":
-                search_string += 'pp'
-            elif tense == "future":
-                search_string += 'fp'
-            elif tense == "aorist":
-                search_string += 'ap'
-            elif tense == "perfect":
-                search_string += 'rp'
-            elif tense == "future perfect":
-                search_string += 'tp'
-            elif tense == "x":
-                search_string += '(p|f|a|r|t)p'
-            else:
-                pass
-
-            voice = input("What voice? (If it doesn't matter, enter 'x'): ")
-            if voice == "active":
-                search_string += 'a'
-            elif voice == "middle":
-                search_string += 'm'
-            elif voice == 'passive':
-                search_string += 'p'
-            elif voice == 'medio-passive':
-                search_string += 'e'
-            elif voice == 'x':
-                search_string += '(a|m|p|e)'
-            else:
-                pass
-
-            gender = input("What gender? (If it doesn't matter, enter 'x'): ")
-            if gender == 'masculine':
-                search_string += 'm'
-            elif gender == 'feminine':
-                search_string += 'f'
-            elif gender == 'neuter':
-                search_string += 'n'
-            elif gender == 'x':
-                search_string += '(m|f|n)'
-            else:
-                pass
-
-            case = input("What case? (If it doesn't matter, enter 'x'): ")
-            if case == 'nominative':
-                search_string += 'n-'
-            elif case == 'genitive':
-                search_string += 'g-'
-            elif case == 'dative':
-                search_string += 'd-'
-            elif case == 'accusative':
-                search_string += 'a-'
-            elif case == 'vocative':
-                search_string += 'v-'
-            elif case == 'locative':
-                search_string += 'l-'
-            elif case == 'x':
-                search_string += '(n|g|d|a|v|l)-'
-            else:
-                pass
-
-        elif category == 'finite':
-
-            person = input("What person? (If it doesn't matter, input 'x'): ")
-            if person == 'first':
-                search_string += '1'
-            elif person == 'second':
-                search_string += '2'
-            elif person == 'third':
-                search_string += '3'
-            elif person == 'x':
-                search_string += '(1|2|3)'
-
-            number = input("What number? (If it doesn't matter, enter 'x'): ")
-            if number == 'singular':
-                search_string += 's'
-            elif number == 'plural':
-                search_string += 'p'
-            elif number == 'dual':
-                search_string += 'd'
-            elif number == 'x':
-                search_string += '(s|p|d)'
-
-            tense = input("What tense? (If it doesn't matter, enter 'x'): ")
-            if tense == "present":
-                search_string += 'p'
-            elif tense == "imperfect":
-                search_string += 'i'
-            elif tense == "perfect":
-                search_string += 'r'
-            elif tense == "pluperfect":
-                search_string += 'l'
-            elif tense == "future perfect":
-                search_string += 't'
-            elif tense == "future":
-                search_string += 'f'
-            elif tense == "aorist":
-                search_string += 'a'
-            elif tense == "x":
-                search_string += '(p|i|r|l|t|f|a)'
-            else:
-                pass
-
-            mood = input("What mood? (If it doesn't matter, enter 'x'): ")
-            if mood == 'indicative':
-                search_string += 'i'
-            elif mood == 'subjunctive':
-                search_string += 's'
-            elif mood == 'optative':
-                search_string += 'o'
-            elif mood == 'imperative':
-                search_string += 'm'
-            elif mood == 'x':
-                search_string += '(i|s|o|m)'
-
-            voice = input("What voice? (If it doesn't matter, enter 'x'): ")
-            if voice == "active":
-                search_string += 'a---'
-            elif voice == "middle":
-                search_string += 'm---'
-            elif voice == 'passive':
-                search_string += 'p---'
-            elif voice == 'medio-passive':
-                search_string += 'e---'
-            elif voice == 'x':
-                search_string += '(a|m|p|e)---'
-            else:
-                pass
-
-            pass
+    while True:
+        pos = input('What part of speech do you want to search?: ')
+        if pos not in [
+            'noun',
+            'verb',
+            'participle',
+            'adjective',
+            'adverb',
+            'particle',
+            'conjunction',
+            'preposition',
+            'pronoun',
+            'numeral',
+            'interjection',
+            'exclamation',
+        ]:
+            print("Not a valid option!")
+            continue
 
         else:
-            pass
-    else:
-        pass
+
+            if pos == 'verb':
+
+                search_string += 'v'
+
+                while True:
+                    category = input('finite, infinitive, or participle?: ')
+                    if category not in [
+                        'finite',
+                        'infinitive',
+                        'participle'
+                    ]:
+                        print("Not a valid option!")
+                        continue
+
+                    else:
+
+                        if category == "infinitive":
+                            search_string += '--'
+
+                            while True:
+                                tense = input("What tense? (If it doesn't matter, enter 'x'): ")
+                                if tense not in [
+                                    'present',
+                                    'future',
+                                    'aorist',
+                                    'perfect',
+                                    'future perfect',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if tense == "present":
+                                        search_string += 'p'
+                                    elif tense == "future":
+                                        search_string += 'f'
+                                    elif tense == "aorist":
+                                        search_string += 'a'
+                                    elif tense == "perfect":
+                                        search_string += 'r'
+                                    elif tense == "future perfect":
+                                        search_string += 't'
+                                    elif tense == "x":
+                                        search_string += '(p|f|a|r|t)'
+                                    search_string += 'n'
+                                    break
+
+                            while True:
+                                voice = input("What voice? (If it doesn't matter, enter 'x'): ")
+                                if voice not in [
+                                    'active',
+                                    'middle',
+                                    'passive',
+                                    'medio-passive',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if voice == "active":
+                                        search_string += 'a'
+                                    elif voice == "middle":
+                                        search_string += 'm'
+                                    elif voice == 'passive':
+                                        search_string += 'p'
+                                    elif voice == 'medio-passive':
+                                        search_string += 'e'
+                                    elif voice == 'x':
+                                        search_string += '(a|m|p|e)'
+                                    search_string += '---'
+                                    break
+
+                            request = f'{tense} {voice}'
+
+                        elif category == 'participle':
+
+                            search_string += '-'
+
+                            while True:
+                                number = input("What number? (If it doesn't matter, enter 'x'): ")
+                                if number not in [
+                                    'singular',
+                                    'plural',
+                                    'dual',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if number == 'singular':
+                                        search_string += 's'
+                                    elif number == 'plural':
+                                        search_string += 'p'
+                                    elif number == 'dual':
+                                        search_string += 'd'
+                                    elif number == 'x':
+                                        search_string += '(s|p|d)'
+                                    break
+
+                            while True:
+                                tense = input("What tense? (If it doesn't matter, enter 'x'): ")
+                                if tense not in [
+                                    'present',
+                                    'future',
+                                    'aorist',
+                                    'perfect',
+                                    'future perfect',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if tense == "present":
+                                        search_string += 'p'
+                                    elif tense == "future":
+                                        search_string += 'f'
+                                    elif tense == "aorist":
+                                        search_string += 'a'
+                                    elif tense == "perfect":
+                                        search_string += 'r'
+                                    elif tense == "future perfect":
+                                        search_string += 't'
+                                    elif tense == "x":
+                                        search_string += '(p|f|a|r|t)'
+                                    search_string += 'p'
+                                    break
+
+                            while True:
+                                voice = input("What voice? (If it doesn't matter, enter 'x'): ")
+                                if voice not in [
+                                    'active',
+                                    'middle',
+                                    'passive',
+                                    'medio-passive',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if voice == "active":
+                                        search_string += 'a'
+                                    elif voice == "middle":
+                                        search_string += 'm'
+                                    elif voice == 'passive':
+                                        search_string += 'p'
+                                    elif voice == 'medio-passive':
+                                        search_string += 'e'
+                                    elif voice == 'x':
+                                        search_string += '(a|m|p|e)'
+                                    break
+
+                            while True:
+                                gender = input("What gender? (If it doesn't matter, enter 'x'): ")
+                                if gender not in [
+                                    'masculine',
+                                    'feminine',
+                                    'neuter',
+                                    'x',
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if gender == 'masculine':
+                                        search_string += 'm'
+                                    elif gender == 'feminine':
+                                        search_string += 'f'
+                                    elif gender == 'neuter':
+                                        search_string += 'n'
+                                    elif gender == 'x':
+                                        search_string += '(m|f|n)'
+                                    break
+
+                            while True:
+                                case = input("What case? (If it doesn't matter, enter 'x'): ")
+                                if case not in [
+                                    'nominative',
+                                    'genitive',
+                                    'dative',
+                                    'accusative',
+                                    'vocative',
+                                    'locative',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if case == 'nominative':
+                                        search_string += 'n'
+                                    elif case == 'genitive':
+                                        search_string += 'g'
+                                    elif case == 'dative':
+                                        search_string += 'd'
+                                    elif case == 'accusative':
+                                        search_string += 'a'
+                                    elif case == 'vocative':
+                                        search_string += 'v'
+                                    elif case == 'locative':
+                                        search_string += 'l'
+                                    elif case == 'x':
+                                        search_string += '(n|g|d|a|v|l)'
+                                    search_string += '-'
+                                    break
+
+                            request = f'{tense} {voice}, {gender} {case} {number}'
+
+                        elif category == 'finite':
+
+                            while True:
+                                person = input("What person? (If it doesn't matter, input 'x'): ")
+                                if person not in [
+                                    'first',
+                                    'second',
+                                    'third',
+                                    'x'
+                                ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if person == 'first':
+                                        search_string += '1'
+                                    elif person == 'second':
+                                        search_string += '2'
+                                    elif person == 'third':
+                                        search_string += '3'
+                                    elif person == 'x':
+                                        search_string += '(1|2|3)'
+                                    break
+
+                            while True:
+                                number = input("What number? (If it doesn't matter, enter 'x'): ")
+                                if number not in [
+                                    'singular',
+                                    'plural',
+                                    'dual',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if number == 'singular':
+                                        search_string += 's'
+                                    elif number == 'plural':
+                                        search_string += 'p'
+                                    elif number == 'dual':
+                                        search_string += 'd'
+                                    elif number == 'x':
+                                        search_string += '(s|p|d)'
+                                    break
+
+                            while True:
+                                tense = input("What tense? (If it doesn't matter, enter 'x'): ")
+                                if tense not in [
+                                    'present',
+                                    'imperfect',
+                                    'perfect',
+                                    'pluperfect',
+                                    'future perfect',
+                                    'future',
+                                    'aorist',
+                                    'x'
+                                ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if tense == "present":
+                                        search_string += 'p'
+                                    elif tense == "imperfect":
+                                        search_string += 'i'
+                                    elif tense == "perfect":
+                                        search_string += 'r'
+                                    elif tense == "pluperfect":
+                                        search_string += 'l'
+                                    elif tense == "future perfect":
+                                        search_string += 't'
+                                    elif tense == "future":
+                                        search_string += 'f'
+                                    elif tense == "aorist":
+                                        search_string += 'a'
+                                    elif tense == "x":
+                                        search_string += '(p|i|r|l|t|f|a)'
+                                    break
+
+                            while True:
+                                mood = input("What mood? (If it doesn't matter, enter 'x'): ")
+                                if mood not in [
+                                    'indicative',
+                                    'subjunctive',
+                                    'optative',
+                                    'imperative',
+                                    'x'
+                                ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if mood == 'indicative':
+                                        search_string += 'i'
+                                    elif mood == 'subjunctive':
+                                        search_string += 's'
+                                    elif mood == 'optative':
+                                        search_string += 'o'
+                                    elif mood == 'imperative':
+                                        search_string += 'm'
+                                    elif mood == 'x':
+                                        search_string += '(i|s|o|m)'
+                                    break
+
+                            while True:
+                                voice = input("What voice? (If it doesn't matter, enter 'x'): ")
+                                if voice not in [
+                                    'active',
+                                    'middle',
+                                    'passive',
+                                    'medio-passive',
+                                    'x'
+                                    ]:
+                                    print("Not a valid option!")
+                                    continue
+                                else:
+                                    if voice == "active":
+                                        search_string += 'a'
+                                    elif voice == "middle":
+                                        search_string += 'm'
+                                    elif voice == 'passive':
+                                        search_string += 'p'
+                                    elif voice == 'medio-passive':
+                                        search_string += 'e'
+                                    elif voice == 'x':
+                                        search_string += '(a|m|p|e)'
+                                    search_string += '---'
+                                    break
+
+                            request = f'{person} {number} {tense} {voice} {mood}'
+
+                        break
+
+            elif pos in ['noun', 'pronoun', 'article']:
+
+                if pos == 'noun':
+                    search_string += 'n'
+                elif pos == 'pronoun':
+                    search_string += 'p'
+                elif pos == 'article':
+                    search_string += 'l'
+
+                search_string += '-'
+
+                while True:
+                    number = input("What number? (If it doesn't matter, input 'x'): ")
+                    if number not in [
+                        'singular',
+                        'plural',
+                        'dual',
+                        'x'
+                    ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if number == "singular":
+                            search_string += 's'
+                        elif number == "plural":
+                            search_string += 'p'
+                        elif number == "dual":
+                            search_string += 'd'
+                        elif number == "x":
+                            search_string += '(s|p|d)'
+                        search_string += '---'
+                        break
+
+                while True:
+                    gender = input("What gender? (If it doesn't matter, enter 'x'): ")
+                    if gender not in [
+                        'masculine',
+                        'feminine',
+                        'neuter',
+                        'x',
+                        ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if gender == 'masculine':
+                            search_string += 'm'
+                        elif gender == 'feminine':
+                            search_string += 'f'
+                        elif gender == 'neuter':
+                            search_string += 'n'
+                        elif gender == 'x':
+                            search_string += '(m|f|n)'
+                        break
+
+                while True:
+                    case = input("What case? (If it doesn't matter, enter 'x'): ")
+                    if case not in [
+                        'nominative',
+                        'genitive',
+                        'dative',
+                        'accusative',
+                        'vocative',
+                        'locative',
+                        'x'
+                        ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if case == 'nominative':
+                            search_string += 'n'
+                        elif case == 'genitive':
+                            search_string += 'g'
+                        elif case == 'dative':
+                            search_string += 'd'
+                        elif case == 'accusative':
+                            search_string += 'a'
+                        elif case == 'vocative':
+                            search_string += 'v'
+                        elif case == 'locative':
+                            search_string += 'l'
+                        elif case == 'x':
+                            search_string += '(n|g|d|a|v|l)'
+                        search_string += '-'
+                        break
+
+                request = f'{gender} {case} {number}'
+
+            elif pos == 'adjective':
+
+                search_string += 'a-'
+
+                while True:
+                    number = input("What number? (If it doesn't matter, input 'x'): ")
+                    if number not in [
+                        'singular',
+                        'plural',
+                        'dual',
+                        'x'
+                    ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if number == "singular":
+                            search_string += 's'
+                        elif number == "plural":
+                            search_string += 'p'
+                        elif number == "dual":
+                            search_string += 'd'
+                        elif number == "x":
+                            search_string += '(s|p|d)'
+                        search_string += '---'
+                        break
+
+                while True:
+                    gender = input("What gender? (If it doesn't matter, enter 'x'): ")
+                    if gender not in [
+                        'masculine',
+                        'feminine',
+                        'neuter',
+                        'x',
+                        ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if gender == 'masculine':
+                            search_string += 'm'
+                        elif gender == 'feminine':
+                            search_string += 'f'
+                        elif gender == 'neuter':
+                            search_string += 'n'
+                        elif gender == 'x':
+                            search_string += '(m|f|n)'
+                        break
+
+                while True:
+                    case = input("What case? (If it doesn't matter, enter 'x'): ")
+                    if case not in [
+                        'nominative',
+                        'genitive',
+                        'dative',
+                        'accusative',
+                        'vocative',
+                        'locative',
+                        'x'
+                        ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if case == 'nominative':
+                            search_string += 'n'
+                        elif case == 'genitive':
+                            search_string += 'g'
+                        elif case == 'dative':
+                            search_string += 'd'
+                        elif case == 'accusative':
+                            search_string += 'a'
+                        elif case == 'vocative':
+                            search_string += 'v'
+                        elif case == 'locative':
+                            search_string += 'l'
+                        elif case == 'x':
+                            search_string += '(n|g|d|a|v|l)'
+                        break
+
+                while True:
+                    degree = input("What degree? (If it doesn't matter, enter 'x'): ")
+                    if degree not in [
+                        'positive',
+                        'comparative',
+                        'superlative',
+                        'x'
+                    ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if degree == 'positive':
+                            search_string += '-'
+                        elif degree == 'comparative':
+                            search_string += 'c'
+                        elif degree == 'superlative':
+                            search_string += 's'
+                        elif degree == 'x':
+                            search_string += '(-|c|s)'
+                        break
+
+                request = f'{gender} {case} {number} {degree}'
+
+            elif pos == 'adverb':
+                search_string += 'd-------'
+
+                while True:
+                    degree = input("What degree? (If it doesn't matter, enter 'x'): ")
+                    if degree not in [
+                        'positive',
+                        'comparative',
+                        'superlative',
+                        'x'
+                    ]:
+                        print("Not a valid option!")
+                        continue
+                    else:
+                        if degree == 'positive':
+                            search_string += '-'
+                        elif degree == 'comparative':
+                            search_string += 'c'
+                        elif degree == 'superlative':
+                            search_string += 's'
+                        elif degree == 'x':
+                            search_string += '(-|c|s)'
+                        break
+
+                request = f'{degree}'
+
+            elif pos == 'particle':
+                search_string += 'g--------'
+
+            elif pos == 'conjunction':
+                search_string += 'c--------'
+
+            elif pos == 'preposition':
+                search_string += 'r--------'
+
+            elif pos == 'interjection':
+                search_string += 'i--------'
+
+            elif pos == 'exclamation':
+                search_string += 'e--------'
+
+            break
 
     print(search_string)
 
@@ -503,9 +929,14 @@ def find_verb_combo(bs_object):
             if re.match(search_string, w.get("postag")):
                 counter += 1
                 print(w.get("cite") + " | " + w.get("form") + ": " + w.get("postag"))
-    print(f"There were {counter} results.")
+    if pos == 'verb':
+        print(f"There were {counter} results for your request: {pos} ({category}), {request}".replace(' x', ''))
+    elif not request or (pos == 'adverb' and degree == 'x'):
+        print(f"There were {counter} results for your request: {pos}".replace(' x', ''))
+    else:
+        print(f"There were {counter} results for your request: {pos}, {request}".replace(' x', ''))
 
-find_verb_combo(bs_content)
+# find_combo(bs_content)
 
 ## get sentence.word ID, form, postag
 
