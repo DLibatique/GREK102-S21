@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Course Information
 
 **Meeting Time:** MWF 10:30am to 11:20am  
-**Meeting Place:**  Online (Zoom)
+**Meeting Place:**  Online (Zoom)  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Student Hours:** TBD  
