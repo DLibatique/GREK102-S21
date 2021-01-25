@@ -112,7 +112,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #6a9fb5;
 }
 
 /* Lists */
@@ -345,7 +345,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #6a9fb5;
 }
 
 .page-title,
