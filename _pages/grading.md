@@ -40,10 +40,16 @@ Throughout the semester, there will be a number of completely optional events th
 
 Homework, quizzes, exams, translations, and compositions will add up to a possible maximum of **1,020 points** throughout the semester; points from external events and assignments will be added into your total point pool, equivalent to points earned through the core five assessment types. The following list indicates the point ranges for semester-end grade levels:
 
-925-1020 = A // 850-924 = A-  
-800-849 = B+ // 750-799 = B // 700-749 = B-  
-650-699 = C+ // 600-649 = C // 550-599 = C-  
-500-549 = D+ // 450-499 = D  
+925-1020 = A  
+850-924 = A-  
+800-849 = B+  
+750-799 = B  
+700-749 = B-  
+650-699 = C+  
+600-649 = C  
+550-599 = C-  
+500-549 = D+  
+450-499 = D  
 < 449 = F
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
