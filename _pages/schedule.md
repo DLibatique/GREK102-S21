@@ -20,7 +20,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 1  
 **Today's topic:** Syllabus Day (Canvas tour, TypeGreek.com)  
 **HW:**
-* read syllabus
+* read syllabus (i.e., the [policies](policies) and [grading](grading) sections of this site)
 * complete [student information form](https://forms.gle/g7nDXyFj6YEwQSaP6)
 * [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
 
