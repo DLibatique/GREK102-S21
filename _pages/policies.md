@@ -11,7 +11,20 @@ Click [here](https://docs.google.com/document/d/16q3e1RUZL4fDl76B4pLojnnZJqAc3WF
 
 ***
 
-[Online Format and the Pandemic](#online-format-and-the-pandemic) \| [Zoom Suggestions](#zoom-suggestions) \| [Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
+<div class="navdropdown">
+  <button class="navdropbtn" onclick="toggleDropdown()">Sections <i class="fa fa-caret-down"></i></button>
+  <div class="navdropdown-content" id="myDropdown">
+    <a href="#online-format-and-the-pandemic">Online Format and the Pandemic</a>
+    <a href="#zoom-suggestions">Zoom Suggestions</a>
+    <a href="#academic-conduct">Academic Conduct</a>
+    <a href="#student-hours">Student Hours</a>
+    <a href="#gender-expression-and-identity">Gender Expression and Identity</a>
+    <a href="#diversity-inclusion-and-respect">Diversity, Inclusion, and Respect</a>
+    <a href="#accessibility">Accessibility</a>
+    <a href="#external-resources">External Resources</a>
+    <a href="#mandated-reporter">Mandated Reporter</a>
+  </div>
+</div>
 
 ***
 
