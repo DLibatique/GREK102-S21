@@ -21,7 +21,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 **Today's topic:** Syllabus Day (Canvas tour, TypeGreek.com)  
 **HW:**
 * read syllabus
-* complete [student information form](#)
+* complete [student information form](https://forms.gle/g7nDXyFj6YEwQSaP6)
 * [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
 
 ## Wednesday, February 3  

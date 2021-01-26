@@ -8,11 +8,11 @@ permalink: /
 
 ***
 
-## Next Deadlines
+## NEXT DEADLINES
 
 ### Due: Wednesday, February 3
 * read the entire syllabus
-* complete [student information form](#)
+* complete [student information form](https://forms.gle/g7nDXyFj6YEwQSaP6)
 * [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
 
 ***
