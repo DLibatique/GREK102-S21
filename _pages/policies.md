@@ -7,6 +7,10 @@ order: 2
 
 ***
 
+Click [here](https://docs.google.com/document/d/16q3e1RUZL4fDl76B4pLojnnZJqAc3WFAxQwCh9DUmU8/edit?usp=sharing) to view this information as a Google Doc.
+
+***
+
 [Online Format and the Pandemic](#online-format-and-the-pandemic) \| [Zoom Suggestions](#zoom-suggestions) \| [Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
 
 ***

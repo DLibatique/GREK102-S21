@@ -5,6 +5,12 @@ permalink: grading
 order: 3
 ---
 
+***
+
+Click [here](https://docs.google.com/document/d/16q3e1RUZL4fDl76B4pLojnnZJqAc3WFAxQwCh9DUmU8/edit?usp=sharing) to view this information as a Google Doc.
+
+***
+
 Grading in this course will be slightly unorthodox. Every student will begin the semester with a **point total** of 0. Then, every assignment that you complete in the areas of homework, quizzes, exams, translations, compositions, and external events will add points to your total. Your point total across all categories at the end of the semester will determine the semester grade that you receive, and you get to decide what combination of assignments and assessments will get you to your desired final grade. You choose the grade that you want, and you are in control of drawing your own pathway to get there.
 
 Because there will be a number of pathways to get to the minimum point total for an A (900 points), **every assignment is optional**. This includes **everything**: homework, quizzes, exams, translations, compositions, external events. As such, if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am extremely flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from any assignment submitted late without prior notification or discussion.

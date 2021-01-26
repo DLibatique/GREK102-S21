@@ -11,7 +11,7 @@ permalink: /
 ## NEXT DEADLINES
 
 ### Due: Wednesday, February 3
-* read the entire syllabus
+* read the entire syllabus (i.e., the "policies" and "grading" section of this site)
 * complete [student information form](https://forms.gle/g7nDXyFj6YEwQSaP6)
 * [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
 
