@@ -19,15 +19,15 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Monday, February 1  
 **Today's topic:** Syllabus Day (Canvas tour, TypeGreek.com)  
-**HW:** nouns and adjectives assignment  
+**HW:** read syllabus, complete [student information form](#), nouns and adjectives assignment (Canvas)
 
 ## Wednesday, February 3  
 **Today's topic:** GREK 101 Review  
-**HW:** pronouns and pronomial adjectives assignment  
+**HW:** pronouns and pronomial adjectives assignment (Canvas)  
 
 ## Friday, February 5  
 **Today's topic:** GREK 101 Review  
-**HW:** verbs assignment 1  
+**HW:** verbs assignment 1 (Canvas)  
 
 [Return to top.](#top)
 
@@ -38,15 +38,15 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 8  
 **Today's topic:** GREK 101 Review  
 *Quiz #1 Due*  
-**HW:** verbs assignment 2  
+**HW:** verbs assignment 2 (Canvas)  
 
 ## Wednesday, February 10  
 **Today's topic:** GREK 101 Review  
-**HW:** syntax (relative clauses, infinitives) assignment  
+**HW:** syntax (relative clauses, infinitives) assignment (Canvas)  
 
 ## Friday, February 12  
 **Today's topic:** GREK 101 Review.  
-**HW:** overview assignment  
+**HW:** overview assignment (Canvas)  
 
 [Return to top.](#top)
 

@@ -12,6 +12,7 @@ permalink: /
 
 ### Due: Wednesday, February 3
 * read the entire syllabus
+* complete [student information form](#)
 * nouns and adjectives assignment (see Canvas)
 
 ***
