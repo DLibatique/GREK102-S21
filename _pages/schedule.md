@@ -5,6 +5,238 @@ permalink: schedule
 order: 4
 ---
 
-# Schedule
+Under any given date, the **topic** listed (e.g., “Unit 24 (athematic aorists)” under Monday, February 15) is what will be discussed in class on that day. You should come to class having read that unit beforehand.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1-5, III.1-2” under Monday, February 15) will be due on Canvas by the start of the next class period (so, that assignment just mentioned will be due by 10:30am on Wednesday, February 17). You can double check what exercises you should complete and when they’re due on Canvas itself.  
+
+***  
+
+# Week 1  
+
+## Monday, February 1  
+**Today's topic:** Syllabus Day (Canvas tour, TypeGreek.com)  
+**HW:** nouns and adjectives assignment  
+
+## Wednesday, February 3  
+**Today's topic:** GREK 101 Review  
+**HW:** pronouns and pronomial adjectives assignment  
+
+## Friday, February 5  
+**Today's topic:** GREK 101 Review  
+**HW:** verbs assignment 1  
+
+***  
+
+# Week 2  
+
+## Monday, February 8  
+**Today's topic:** GREK 101 Review  
+*Quiz #1 Due*  
+**HW:** verbs assignment 2  
+
+## Wednesday, February 10  
+**Today's topic:** GREK 101 Review  
+**HW:** syntax (relative clauses, infinitives) assignment  
+
+## Friday, February 12  
+**Today's topic:** GREK 101 Review.  
+**HW:** overview assignment  
+
+***  
+
+# Week 3  
+
+## Monday, February 15  
+*Quiz #2 Due*  
+**Today's topic:** Unit 24 (athematic aorists)  
+**HW:** Unit 24, I.1-5, II.1-5, III.1-2  
+
+## Wednesday, February 17  
+*Translation #1 Due*  
+**Today's topic:** Unit 25, part 1 (adjectives with variant stems, numerals)  
+**HW:** Unit 25, I.1-4, II.1-2  
+
+## Friday, February 19  
+*Composition #1 Due*  
+**Today's topic:** Unit 25, part 2 - result constructions  
+**HW:** Unit 25, I.7, 10; II.3, 5  
+
+***  
+
+# Week 4  
+
+## Monday, February 22  
+*Quiz #3 Due*  
+**Today's topic:** Unit 26 (participles: formation and declension)  
+**HW:** Unit 26, I.1-4; II.1-6; III.1-4  
+
+## Wednesday, February 24  
+**Today's topic:** Unit 27, part 1 (participle uses)  
+**HW:** Unit 27, I.1-3, II.1-3  
+
+## Friday, February 26  
+**Today's topic:** Unit 27, part 2 (more participle uses)  
+**HW:** Unit 27, I.4-6, II.4-6  
+
+***  
+
+# Week 5  
+
+## Monday, March 1  
+*Quiz #4 Due*  
+**Today's topic:** Unit 28 (even more participle uses, οἶδα)  
+**HW:** Unit 28, I.1-3, 7-8  
+
+## Wednesday, March 3  
+**Today's topic:** Unit 29 (aorist passive and future passive)  
+**HW:** Unit 29: I.1-4, II.1-4, III.2-3  
+
+## Friday, March 5  
+Exam #1 Review Day  
+
+***  
+
+# Week 6  
+
+## Monday, March 8  
+*Exam #1 Due*  
+**Today's topic:** Unit 30, part 1 (alpha and omicron contract verbs)  
+**HW:** Unit 30, I.1-5, II.1-5  
+
+## Wednesday, March 10  
+**Today's topic:** Unit 30, part 2 (genitive and dative)  
+**HW:** Unit 30, III.1-4  
+
+## Friday, March 12  
+**Today's topic:** Unit 31 (adjective and adverb comparison)  
+**HW:** Unit 31, II.2-4, III.1-2  
+
+***  
+
+# Week 7  
+
+## Monday, March 15  
+*Quiz #5 Due*  
+**Today's topic:** Unit 32, part 1 (subjunctive: formation)  
+**HW:** Unit 32, I.1-6, II.1-4  
+
+## Wednesday, March 17  
+*Translation #2 Due*  
+**Today's topic:** Unit 32, part 2 (subjunctive: uses)  
+**HW:** Unit 32, III.2-4, IV.2-3  
+
+## Friday, March 19  
+*Composition #2 Due*  
+**Today's topic:** Unit 33 (optative: formation)  
+**HW:** Unit 33, I.1-5, II.1-5  
+
+***  
+
+# Week 8  
+
+## Monday, March 22  
+*Quiz #6 Due*  
+**Today's topic:** Unit 34, part 1 (optative: uses)  
+**HW:** (TBD)  
+
+## Wednesday, March 24  
+**Today's topic:** Unit 34, part 2 (indirect discourse with ὅτι, indirect questions, indefinite relatives)  
+**HW:** (TBD)  
+
+## Friday, March 26  
+**Today's topic:** Unit 35 (conditionals)  
+**HW:** (TBD)  
+
+***  
+
+# Week 9  
+
+## Monday, March 29  
+*Quiz #7 Due*  
+**Today's topic:** Unit 35, part 2 OR Unit 36? (indicative with ἄν, correlatives, particles)  
+**HW:** (TBD)  
+
+
+## Wednesday, March 31  
+**Today's topic:** Unit 37 (perfect active)  
+**HW:** Unit 37, I.1-6, II.1-6  
+
+***
+
+**Easter Break:** 4/1 - 4/6  
+
+***  
+
+# Week 10  
+
+## Wednesday, April 7  
+**Today's topic:** Unit 38 (perfect middle/passive)  
+**HW:** Unit 38, I.1-6, II.1-6  
+
+## Friday, April 9  
+Exam #2 Review Day  
+
+***  
+
+# Week 11  
+
+## Monday, April 12  
+*Exam #2 Due*  
+Begin *Oidipous Tyrannos*  
+
+## Wednesday, April 14  
+*Translation #3 Due*  
+*OT*  
+
+## Friday, April 16  
+*Composition #3 Due*  
+*OT*  
+
+***  
+
+# Week 12  
+
+## Monday, April 19  
+*Quiz #8 Due*  
+*OT*  
+
+## Wednesday, April 21  
+*OT*  
+
+## Friday, April 23  
+*OT*  
+
+***  
+
+# Week 13  
+
+## Monday, April 26  
+*Quiz #9 Due*  
+*OT*  
+
+## Wednesday, April 28  
+No class (Academic Conference)  
+
+## Friday, April 30  
+*OT*  
+
+***  
+
+# Week 14  
+
+## Monday, May 3  
+*Quiz #10 Due*  
+*OT*  
+
+## Wednesday, May 5  
+*OT*  
+
+## Friday, May 7  
+In Conclusion  
+
+***
+
+**Study Period:** 5/8 - 5/11  
+**Exam Period:** 5/12 - 5/18\*  
+
+\* Translation #4, Composition #4, and Exam #3 will be due during exam period; details TBD.  
