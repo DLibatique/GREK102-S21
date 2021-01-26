@@ -17,7 +17,7 @@ Click [here](https://docs.google.com/document/d/16q3e1RUZL4fDl76B4pLojnnZJqAc3WF
 
 ## Online Format and the Pandemic
 
-Due to the coronavirus pandemic, our plan for the semester will be to use an online format. We will meet synchronously via Zoom at our registrar-appointed meeting times (MWF 9:15-10:05am Eastern). The nature of the class makes it difficult to complete the course objectives and participate in the community of the class without synchronous attendance, so if you anticipate any difficulties or obstacles in meeting at our prescribed times, please contact me so that we can work out a plan.
+Due to the coronavirus pandemic, our plan for the semester will be to use an online format. We will meet synchronously via Zoom at our registrar-appointed meeting times (MWF 10:30-11:20am Eastern). The nature of the class makes it difficult to complete the course objectives and participate in the community of the class without synchronous attendance, so if you anticipate any difficulties or obstacles in meeting at our prescribed times, please contact me so that we can work out a plan.
 
 Class meetings will be recorded and made available to students registered for this class upon request if an accommodation has been granted or if you have missed a class and would like to stay up to date on what we discussed. Duplication or redistribution of video capture recordings by any other party without the consent of the course instructor is prohibited.
 
