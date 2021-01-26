@@ -5,6 +5,12 @@ permalink: policies
 order: 2
 ---
 
+***
+
+[Online Format and the Pandemic](#online-format-and-the-pandemic) \| [Zoom Suggestions](#zoom-suggestions) \| [Academic Conduct](#academic-conduct) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
+
+***
+
 ## Online Format and the Pandemic
 
 Due to the coronavirus pandemic, our plan for the semester will be to use an online format. We will meet synchronously via Zoom at our registrar-appointed meeting times (MWF 9:15-10:05am Eastern). The nature of the class makes it difficult to complete the course objectives and participate in the community of the class without synchronous attendance, so if you anticipate any difficulties or obstacles in meeting at our prescribed times, please contact me so that we can work out a plan.

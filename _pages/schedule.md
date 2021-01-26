@@ -9,6 +9,10 @@ Under any given date, the **topic** listed (e.g., “Unit 24 (athematic aorists)
 
 The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1-5, III.1-2” under Monday, February 15) will be due on Canvas by the start of the next class period (so, that assignment just mentioned will be due by 10:30am on Wednesday, February 17). You can double check what exercises you should complete and when they’re due on Canvas itself.  
 
+***
+
+[Week 1 (2/1,, 2/3, 2/5)](#week-1) \| [Week 2 (2/8, 2/10, 2/12)](#week-2) \| [Week 3 (2/15, 2/17, 2/19)](#week-3) \| [Week 4 (2/22, 2/24, 2/26)](#week-4) \| [Week 5 (3/1, 3/3, 3/5)](#week-5) \| [Week 6 (3/8, 3/10, 3/12)](#week-6) \| [Week 7 (3/15, 3/17, 3/19)](#week-7) \| [Week 8 (3/22, 3/24, 3/26)](#week-8) \| [Week 9 (3/29, 3/31)](#week-9) \| [Week 10 (4/7, 4/9)](#week-10) \| [Week 11 (4/12, 4/14, 4/16)](#week-11) \| [Week 12 (4/19, 4/21, 4/23)](#week-12) \| [Week 13 (4/26, 4/30)](#week-13) \| [Week 14 (5/3, 5/5, 5/7)](#week-14) \|
+
 ***  
 
 # Week 1  
@@ -24,6 +28,8 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Friday, February 5  
 **Today's topic:** GREK 101 Review  
 **HW:** verbs assignment 1  
+
+[Return to top.](#top)
 
 ***  
 
@@ -41,6 +47,8 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Friday, February 12  
 **Today's topic:** GREK 101 Review.  
 **HW:** overview assignment  
+
+[Return to top.](#top)
 
 ***  
 
@@ -61,6 +69,8 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 **Today's topic:** Unit 25, part 2 - result constructions  
 **HW:** Unit 25, I.7, 10; II.3, 5  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 4  
@@ -78,6 +88,8 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 **Today's topic:** Unit 27, part 2 (more participle uses)  
 **HW:** Unit 27, I.4-6, II.4-6  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 5  
@@ -93,6 +105,8 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Friday, March 5  
 Exam #1 Review Day  
+
+[Return to top.](#top)
 
 ***  
 
@@ -110,6 +124,8 @@ Exam #1 Review Day
 ## Friday, March 12  
 **Today's topic:** Unit 31 (adjective and adverb comparison)  
 **HW:** Unit 31, II.2-4, III.1-2  
+
+[Return to top.](#top)
 
 ***  
 
@@ -130,6 +146,8 @@ Exam #1 Review Day
 **Today's topic:** Unit 33 (optative: formation)  
 **HW:** Unit 33, I.1-5, II.1-5  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 8  
@@ -147,6 +165,8 @@ Exam #1 Review Day
 **Today's topic:** Unit 35 (conditionals)  
 **HW:** (TBD)  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 9  
@@ -160,6 +180,8 @@ Exam #1 Review Day
 ## Wednesday, March 31  
 **Today's topic:** Unit 37 (perfect active)  
 **HW:** Unit 37, I.1-6, II.1-6  
+
+[Return to top.](#top)
 
 ***
 
@@ -175,6 +197,8 @@ Exam #1 Review Day
 
 ## Friday, April 9  
 Exam #2 Review Day  
+
+[Return to top.](#top)
 
 ***  
 
@@ -192,6 +216,8 @@ Begin *Oidipous Tyrannos*
 *Composition #3 Due*  
 *OT*  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 12  
@@ -205,6 +231,8 @@ Begin *Oidipous Tyrannos*
 
 ## Friday, April 23  
 *OT*  
+
+[Return to top.](#top)
 
 ***  
 
@@ -220,6 +248,8 @@ No class (Academic Conference)
 ## Friday, April 30  
 *OT*  
 
+[Return to top.](#top)
+
 ***  
 
 # Week 14  
@@ -234,9 +264,13 @@ No class (Academic Conference)
 ## Friday, May 7  
 In Conclusion  
 
+[Return to top.](#top)
+
 ***
 
 **Study Period:** 5/8 - 5/11  
 **Exam Period:** 5/12 - 5/18\*  
 
 \* Translation #4, Composition #4, and Exam #3 will be due during exam period; details TBD.  
+
+[Return to top.](#top)
