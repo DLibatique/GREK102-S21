@@ -19,15 +19,18 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Monday, February 1  
 **Today's topic:** Syllabus Day (Canvas tour, TypeGreek.com)  
-**HW:** read syllabus, complete [student information form](#), nouns and adjectives assignment (Canvas)
+**HW:**
+* read syllabus
+* complete [student information form](#)
+* [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
 
 ## Wednesday, February 3  
 **Today's topic:** GREK 101 Review  
-**HW:** pronouns and pronomial adjectives assignment (Canvas)  
+**HW:** [pronouns and pronomial adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28211)  
 
 ## Friday, February 5  
 **Today's topic:** GREK 101 Review  
-**HW:** verbs assignment 1 (Canvas)  
+**HW:** [verbs assignment 1](https://hc.instructure.com/courses/3462/assignments/28212)  
 
 [Return to top.](#top)
 
@@ -36,17 +39,17 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 # Week 2  
 
 ## Monday, February 8  
+[*Quiz #1*](https://hc.instructure.com/courses/3462/assignments/30879) *Due*  
 **Today's topic:** GREK 101 Review  
-*Quiz #1 Due*  
-**HW:** verbs assignment 2 (Canvas)  
+**HW:** [verbs assignment 2](https://hc.instructure.com/courses/3462/assignments/28213)  
 
 ## Wednesday, February 10  
 **Today's topic:** GREK 101 Review  
-**HW:** syntax (relative clauses, infinitives) assignment (Canvas)  
+**HW:** [syntax (relative clauses, infinitives) assignment](https://hc.instructure.com/courses/3462/assignments/28214)  
 
 ## Friday, February 12  
 **Today's topic:** GREK 101 Review.  
-**HW:** overview assignment (Canvas)  
+**HW:** [overview assignment](https://hc.instructure.com/courses/3462/assignments/28215)  
 
 [Return to top.](#top)
 
@@ -55,19 +58,19 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 # Week 3  
 
 ## Monday, February 15  
-*Quiz #2 Due*  
+[*Quiz #2*](https://hc.instructure.com/courses/3462/assignments/30880) *Due*  
 **Today's topic:** Unit 24 (athematic aorists)  
-**HW:** Unit 24, I.1-5, II.1-5, III.1-2  
+**HW:** [Unit 24, I.1-5, II.1-5, III.1-2](https://hc.instructure.com/courses/3462/assignments/28216)  
 
 ## Wednesday, February 17  
-*Translation #1 Due*  
+[*Translation #1*](https://hc.instructure.com/courses/3462/assignments/28248) *Due*  
 **Today's topic:** Unit 25, part 1 (adjectives with variant stems, numerals)  
-**HW:** Unit 25, I.1-4, II.1-2  
+**HW:** [Unit 25, I.1-4, II.1-2](https://hc.instructure.com/courses/3462/assignments/28217)  
 
 ## Friday, February 19  
-*Composition #1 Due*  
+[*Composition #1*](https://hc.instructure.com/courses/3462/assignments/30854) *Due*  
 **Today's topic:** Unit 25, part 2 - result constructions  
-**HW:** Unit 25, I.7, 10; II.3, 5  
+**HW:** [Unit 25, I.7, 10; II.3, 5](https://hc.instructure.com/courses/3462/assignments/28218)  
 
 [Return to top.](#top)
 
@@ -76,17 +79,17 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 # Week 4  
 
 ## Monday, February 22  
-*Quiz #3 Due*  
+[*Quiz #3*](https://hc.instructure.com/courses/3462/assignments/30881) *Due*  
 **Today's topic:** Unit 26 (participles: formation and declension)  
-**HW:** Unit 26, I.1-4; II.1-6; III.1-4  
+**HW:** [Unit 26, I.1-4; II.1-6; III.1-4](https://hc.instructure.com/courses/3462/assignments/28219)  
 
 ## Wednesday, February 24  
 **Today's topic:** Unit 27, part 1 (participle uses)  
-**HW:** Unit 27, I.1-3, II.1-3  
+**HW:** [Unit 27, I.1-3, II.1-3](https://hc.instructure.com/courses/3462/assignments/28220)  
 
 ## Friday, February 26  
 **Today's topic:** Unit 27, part 2 (more participle uses)  
-**HW:** Unit 27, I.4-6, II.4-6  
+**HW:** [Unit 27, I.4-6, II.4-6](https://hc.instructure.com/courses/3462/assignments/28221)  
 
 [Return to top.](#top)
 
@@ -95,13 +98,13 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 # Week 5  
 
 ## Monday, March 1  
-*Quiz #4 Due*  
+[*Quiz #4*](https://hc.instructure.com/courses/3462/assignments/30882) *Due*  
 **Today's topic:** Unit 28 (even more participle uses, οἶδα)  
-**HW:** Unit 28, I.1-3, 7-8  
+**HW:** [Unit 28, I.1-3, 7-8](https://hc.instructure.com/courses/3462/assignments/28222)  
 
 ## Wednesday, March 3  
 **Today's topic:** Unit 29 (aorist passive and future passive)  
-**HW:** Unit 29: I.1-4, II.1-4, III.2-3  
+**HW:** [Unit 29: I.1-4, II.1-4, III.2-3](https://hc.instructure.com/courses/3462/assignments/28223)  
 
 ## Friday, March 5  
 Exam #1 Review Day  
@@ -113,17 +116,17 @@ Exam #1 Review Day
 # Week 6  
 
 ## Monday, March 8  
-*Exam #1 Due*  
+[*Exam #1*](https://hc.instructure.com/courses/3462/assignments/30875) *Due*  
 **Today's topic:** Unit 30, part 1 (alpha and omicron contract verbs)  
-**HW:** Unit 30, I.1-5, II.1-5  
+**HW:** [Unit 30, I.1-5, II.1-5](https://hc.instructure.com/courses/3462/assignments/28225)  
 
 ## Wednesday, March 10  
 **Today's topic:** Unit 30, part 2 (genitive and dative)  
-**HW:** Unit 30, III.1-4  
+**HW:** [Unit 30, III.1-4](https://hc.instructure.com/courses/3462/assignments/28226)  
 
 ## Friday, March 12  
 **Today's topic:** Unit 31 (adjective and adverb comparison)  
-**HW:** Unit 31, II.2-4, III.1-2  
+**HW:** [Unit 31, II.2-4, III.1-2](https://hc.instructure.com/courses/3462/assignments/28227)  
 
 [Return to top.](#top)
 
@@ -132,19 +135,19 @@ Exam #1 Review Day
 # Week 7  
 
 ## Monday, March 15  
-*Quiz #5 Due*  
+[*Quiz #5*](https://hc.instructure.com/courses/3462/assignments/30883) *Due*  
 **Today's topic:** Unit 32, part 1 (subjunctive: formation)  
-**HW:** Unit 32, I.1-6, II.1-4  
+**HW:** [Unit 32, I.1-6, II.1-4](https://hc.instructure.com/courses/3462/assignments/28228)  
 
 ## Wednesday, March 17  
-*Translation #2 Due*  
+[*Translation #2*](https://hc.instructure.com/courses/3462/assignments/28249) *Due*  
 **Today's topic:** Unit 32, part 2 (subjunctive: uses)  
-**HW:** Unit 32, III.2-4, IV.2-3  
+**HW:** [Unit 32, III.2-4, IV.2-3](https://hc.instructure.com/courses/3462/assignments/28229)  
 
 ## Friday, March 19  
-*Composition #2 Due*  
+[*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855) *Due*  
 **Today's topic:** Unit 33 (optative: formation)  
-**HW:** Unit 33, I.1-5, II.1-5  
+**HW:** [Unit 33, I.1-5, II.1-5](https://hc.instructure.com/courses/3462/assignments/28230)  
 
 [Return to top.](#top)
 
@@ -153,17 +156,17 @@ Exam #1 Review Day
 # Week 8  
 
 ## Monday, March 22  
-*Quiz #6 Due*  
+[*Quiz #6*](https://hc.instructure.com/courses/3462/assignments/30884) *Due*  
 **Today's topic:** Unit 34, part 1 (optative: uses)  
-**HW:** (TBD)  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28231)  
 
 ## Wednesday, March 24  
 **Today's topic:** Unit 34, part 2 (indirect discourse with ὅτι, indirect questions, indefinite relatives)  
-**HW:** (TBD)  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28232)  
 
 ## Friday, March 26  
 **Today's topic:** Unit 35 (conditionals)  
-**HW:** (TBD)  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28233)  
 
 [Return to top.](#top)
 
@@ -172,14 +175,14 @@ Exam #1 Review Day
 # Week 9  
 
 ## Monday, March 29  
-*Quiz #7 Due*  
+[*Quiz #7*](https://hc.instructure.com/courses/3462/assignments/30885) *Due*  
 **Today's topic:** Unit 35, part 2 OR Unit 36? (indicative with ἄν, correlatives, particles)  
-**HW:** (TBD)  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28234)  
 
 
 ## Wednesday, March 31  
 **Today's topic:** Unit 37 (perfect active)  
-**HW:** Unit 37, I.1-6, II.1-6  
+**HW:** [Unit 37, I.1-6, II.1-6](https://hc.instructure.com/courses/3462/assignments/28235)  
 
 [Return to top.](#top)
 
@@ -193,7 +196,7 @@ Exam #1 Review Day
 
 ## Wednesday, April 7  
 **Today's topic:** Unit 38 (perfect middle/passive)  
-**HW:** Unit 38, I.1-6, II.1-6  
+**HW:** [Unit 38, I.1-6, II.1-6](https://hc.instructure.com/courses/3462/assignments/28236)  
 
 ## Friday, April 9  
 Exam #2 Review Day  
@@ -205,16 +208,19 @@ Exam #2 Review Day
 # Week 11  
 
 ## Monday, April 12  
-*Exam #2 Due*  
+[*Exam #2*](https://hc.instructure.com/courses/3462/assignments/30876) *Due*  
 Begin *Oidipous Tyrannos*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28238)
 
 ## Wednesday, April 14  
-*Translation #3 Due*  
+[*Translation #3*](https://hc.instructure.com/courses/3462/assignments/28250) *Due*  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28239)  
 
 ## Friday, April 16  
-*Composition #3 Due*  
+[*Composition #3*](https://hc.instructure.com/courses/3462/assignments/30856) *Due*  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28240)  
 
 [Return to top.](#top)
 
@@ -223,14 +229,17 @@ Begin *Oidipous Tyrannos*
 # Week 12  
 
 ## Monday, April 19  
-*Quiz #8 Due*  
+[*Quiz #8*](https://hc.instructure.com/courses/3462/assignments/30886) *Due*  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28241)
 
 ## Wednesday, April 21  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28242)  
 
 ## Friday, April 23  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28244)  
 
 [Return to top.](#top)
 
@@ -239,14 +248,16 @@ Begin *Oidipous Tyrannos*
 # Week 13  
 
 ## Monday, April 26  
-*Quiz #9 Due*  
+[*Quiz #9*](https://hc.instructure.com/courses/3462/assignments/30887) *Due*  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28245)  
 
 ## Wednesday, April 28  
 No class (Academic Conference)  
 
 ## Friday, April 30  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28246)  
 
 [Return to top.](#top)
 
@@ -255,11 +266,13 @@ No class (Academic Conference)
 # Week 14  
 
 ## Monday, May 3  
-*Quiz #10 Due*  
+[*Quiz #10*](https://hc.instructure.com/courses/3462/assignments/30888) *Due*  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/30853)  
 
 ## Wednesday, May 5  
 *OT*  
+**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28247)  
 
 ## Friday, May 7  
 In Conclusion  
@@ -271,6 +284,6 @@ In Conclusion
 **Study Period:** 5/8 - 5/11  
 **Exam Period:** 5/12 - 5/18\*  
 
-\* Translation #4, Composition #4, and Exam #3 will be due during exam period; details TBD.  
+\* [Translation #4](https://hc.instructure.com/courses/3462/assignments/28251), [Composition #4](https://hc.instructure.com/courses/3462/assignments/30857), and [Exam #3](https://hc.instructure.com/courses/3462/assignments/30877) will be due during exam period; details TBD.  
 
 [Return to top.](#top)
