@@ -13,13 +13,13 @@ order: 1
 
 1. What **tense** and **voice** is **ἐβούλετο**?
 2. Transform **ἥρπασεν** into the **middle voice**, keeping all other aspects the same.
-3. What **case** is **πολλὰς νυκτάς (τε καὶ) ἡμέρας**, and why is it in that case? (Hint: see Unit 17.)
+3. What **case** is **πολλὰς νυκτάς (τε καὶ) ἡμέρας**, and **why** is it in that case? (Hint: see Unit 17.)
 4. What **tense** and **voice** is **ἐζητεῖ**?
 5. What is the **first principal part** of **ἔμαθε**?
 6. What kind of syntactic construction is **ἔφησε ὀργίζεσθαι τοῖς ἄλλοις θεοῖς**?
 7. What is the **second principal part** of **ἦλθε**?
-8. What **tense** and **voice** is **ἀναπέμψαι**?
-9. What **case** is **αὐτῇ**, and why is it in that case? (Hint: see Unit 5.)
+8. What **tense** and **voice** is **ἀναπέμψαι**? (Hint: see note below.)
+9. What **case** is **αὐτῇ**, and **why** is it in that case? (Hint: see Unit 5.)
 10. What is the **antecedent** of **τὸν** in **τὸν κατηνάλωσεν**?
 
 ### Notes (in order of appearance)
