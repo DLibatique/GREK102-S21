@@ -47,6 +47,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Wednesday, February 3  
 **Today's topic:** GREK 101 Review  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1Vx1vK-ApIdrFzWsLM8pylWAlr8bWZfct/view?usp=sharing)  
 **HW:** [pronouns and pronomial adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28211)  
 
 ## Friday, February 5  
