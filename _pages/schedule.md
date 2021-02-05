@@ -52,7 +52,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Friday, February 5  
 **Today's topic:** GREK 101 Review  
-**Slideshow**: [Click here](https://drive.google.com/file/d/1WFUz1iUzzx2SguYCOTRcv_U8QcWO-r8X/view?usp=sharing)
+**Slideshow**: [Click here](https://drive.google.com/file/d/1WFUz1iUzzx2SguYCOTRcv_U8QcWO-r8X/view?usp=sharing)  
 **HW:** [verbs assignment 1](https://hc.instructure.com/courses/3462/assignments/28212)  
 
 [Return to top.](#top)
