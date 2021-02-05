@@ -10,10 +10,13 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Wednesday, February 3
-* read the entire syllabus (i.e., the "policies" and "grading" section of this site)
-* complete [student information form](https://forms.gle/g7nDXyFj6YEwQSaP6)
-* [nouns and adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28210)
+### Due: Friday, February 5
+* complete [pronouns and pronomial adjectives assignment](https://hc.instructure.com/courses/3462/assignments/28211)
+
+### Due: Monday, February 8
+* complete [*Quiz #1*](https://hc.instructure.com/courses/3462/assignments/30879)
+* complete [verbs assignment 1](https://hc.instructure.com/courses/3462/assignments/28212)
+
 
 ***
 
