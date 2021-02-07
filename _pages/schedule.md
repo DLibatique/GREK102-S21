@@ -64,6 +64,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 8  
 [*Quiz #1*](https://hc.instructure.com/courses/3462/assignments/30879) *Due*  
 **Today's topic:** GREK 101 Review  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1WVZxEbeXHTkFXXVSRFrIQYmf4GLW3DEz/view?usp=sharing)  
 **HW:** [verbs assignment 2](https://hc.instructure.com/courses/3462/assignments/28213)  
 
 ## Wednesday, February 10  
