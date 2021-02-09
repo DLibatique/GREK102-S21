@@ -5,7 +5,7 @@ permalink: composition-1
 order: 1
 ---
 
-**Instructions**: *Compose a paragraph of Greek according to the instructions below. The list under each sentence indicates the morphological and syntactic structures that that sentence should include. All vocabulary words that you will need can be found either below or in the English-Greek glossary in Mastronarde (pp. 468-480).*
+**Instructions**: *Compose a paragraph of Greek according to the instructions below. The list under each sentence indicates the morphological and syntactic structures that that sentence should include, but the list is not exhaustive. All vocabulary words that you will need can be found either below or in the English-Greek glossary in Mastronarde (pp. 468-480).*
 
 1. Your first sentence should express: The terrible war was (being) begun by the Titans against their father, Sky.
   * an imperfect tense verb (Unit 16)
