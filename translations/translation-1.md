@@ -7,7 +7,7 @@ order: 1
 
 **Instructions**: *Translate the paragraph of Greek below into idiomatic, grammatically-correct English (20 pts.), and answer the grammar questions that follow (10 pts.). Make sure to use the given notes (keyed to words in bold in the text) and the given vocabulary items to help. Any vocabulary that you cannot find in the list below can be found in the Greek-English glossary in Mastronarde (pp. 451-467). Vocabulary in this translation is not limited to the first 23 units of Mastronarde, so there* will *be words used that you will not have memorized yet.*
 
-Πλούτων εἶναι σὺν Περσεφόνῃ οὕτως ἐβούλετο, **ὥστε** ἥρπασεν αὐτὴν κρύφα. Δημήτηρ δὲ τὴν θυγατέρα μετὰ λαμπάδων πολλὰς νυκτάς τε καὶ ἡμέρας κατὰ πᾶσαν τὴν γῆν ἐζητεῖ· ἔμαθε δὲ **ὅτι** Πλούτων αὐτὴν ἥρπασεν, καὶ ἔφησε ὀργίζεσθαι **τοῖς ἄλλοις θεοῖς**. κατέλιπεν οὐρανόν, ἦλθε δὲ εἰς Ἐλευσῖνα. ὁ μὲν Ζεὺς **Πλούτωνι** τὴν κόρην **ἀναπέμψαι** ἐκέλευσεν, ὁ δὲ Πλούτων ἔδωκεν αὐτῇ τὸν τῆς ῥοιᾶς κόκκον, τὸν κατηνάλωσεν. διὰ τοῦτο, χρὴ αὐτὴν **ἐνιαυτὸν τὸ μὲν τρίτον** μετὰ Πλούτωνος μένειν, **τὸ δὲ λοιπὸν** παρὰ τοῖς θεοῖς τῇ τε μητρί.
+Πλούτων εἶναι σὺν Περσεφόνῃ οὕτως ἐβούλετο, **ὥστε** ἥρπασεν αὐτὴν κρύφα. Δημήτηρ δὲ τὴν θυγατέρα μετὰ λαμπάδων πολλὰς νυκτάς τε καὶ ἡμέρας κατὰ πᾶσαν τὴν γῆν ἐζητεῖ· ἔμαθε δὲ **ὅτι** Πλούτων αὐτὴν ἥρπασεν, καὶ ἔφησε ὀργίζεσθαι **τοῖς ἄλλοις θεοῖς**. κατέλιπεν οὐρανόν, ἦλθε δὲ εἰς Ἐλευσῖνα. ὁ μὲν Ζεὺς **Πλούτωνι** τὴν κόρην **ἀναπέμψαι** ἐκέλευσεν, ὁ δὲ Πλούτων ἔδωκεν αὐτῇ τὸν τῆς ῥοιᾶς κόκκον, ὃν κατηνάλωσεν. διὰ τοῦτο, χρὴ αὐτὴν **ἐνιαυτὸν τὸ μὲν τρίτον** μετὰ Πλούτωνος μένειν, **τὸ δὲ λοιπὸν** παρὰ τοῖς θεοῖς τῇ τε μητρί.
 
 ### Grammar Questions (1 pt. each)
 
@@ -20,7 +20,7 @@ order: 1
 7. What is the **second principal part** of **ἦλθε**?
 8. What **tense** and **voice** is **ἀναπέμψαι**? (Hint: see note below.)
 9. What **case** is **αὐτῇ**, and **why** is it in that case? (Hint: see Unit 5.)
-10. What is the **antecedent** of **τὸν** in **τὸν κατηνάλωσεν**?
+10. What is the **antecedent** of **ὃν** in **ὃν κατηνάλωσεν**?
 
 ### Notes (in order of appearance)
 
