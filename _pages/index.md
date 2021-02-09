@@ -10,10 +10,6 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, February 8
-* complete [*Quiz #1*](https://hc.instructure.com/courses/3462/assignments/30879)
-* complete [verbs assignment 1](https://hc.instructure.com/courses/3462/assignments/28212)
-
 ### Due: Wednesday, February 10
 * complete [verbs assignment 2](https://hc.instructure.com/courses/3462/assignments/28213)  
 * start thinking about Translation 1 and Composition 1
