@@ -69,7 +69,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 
 ## Wednesday, February 10  
 **Today's topic:** GREK 101 Review  
-**HW:** [syntax (relative clauses, infinitives) assignment](https://hc.instructure.com/courses/3462/assignments/28214)  
+**HW:** [infinitives assignment](https://hc.instructure.com/courses/3462/assignments/28214)  
 
 ## Friday, February 12  
 **Today's topic:** GREK 101 Review.  
