@@ -64,15 +64,17 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 8  
 [*Quiz #1*](https://hc.instructure.com/courses/3462/assignments/30879) *Due*  
 **Today's topic:** GREK 101 Review  
-**Slideshow**: [Click here](https://drive.google.com/file/d/1WVZxEbeXHTkFXXVSRFrIQYmf4GLW3DEz/view?usp=sharing)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1X2PuNqzL9RpjyENoCGhJ1MLIIv9CcJJm/view?usp=sharing )  
 **HW:** [verbs assignment 2](https://hc.instructure.com/courses/3462/assignments/28213)  
 
 ## Wednesday, February 10  
 **Today's topic:** GREK 101 Review  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1X2PuNqzL9RpjyENoCGhJ1MLIIv9CcJJm/view?usp=sharing )  
 **HW:** [infinitives assignment](https://hc.instructure.com/courses/3462/assignments/28214)  
 
 ## Friday, February 12  
 **Today's topic:** GREK 101 Review.  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1X2PuNqzL9RpjyENoCGhJ1MLIIv9CcJJm/view?usp=sharing )   
 **HW:** [overview assignment](https://hc.instructure.com/courses/3462/assignments/28215)  
 
 [Return to top.](#top)
