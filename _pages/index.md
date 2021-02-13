@@ -10,14 +10,18 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Friday, February 12
-* complete [infinitives assignment](https://hc.instructure.com/courses/3462/assignments/28214)  
-* start thinking about Translation 1 and Composition 1
-
 ### Due: Monday, February 15
 * complete [overview assignment](https://hc.instructure.com/courses/3462/assignments/28215)
 * complete [Quiz #2](https://hc.instructure.com/courses/3462/assignments/30880)
 * (optional) Read Unit 24 of Mastronarde
+
+### Due: Wednesday, February 17
+* complete [Unit 24, I.1-5, II.1-5, III.1-2](https://hc.instructure.com/courses/3462/assignments/28216)  
+* [*Translation #1*](https://hc.instructure.com/courses/3462/assignments/28248) Due
+
+### Due: Friday, February 19
+* complete [Unit 25, I.1-4, II.1-2](https://hc.instructure.com/courses/3462/assignments/28217)  
+* [*Composition #1*](https://hc.instructure.com/courses/3462/assignments/30854) Due
 
 ***
 
