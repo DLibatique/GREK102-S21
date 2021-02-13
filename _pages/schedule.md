@@ -91,7 +91,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Wednesday, February 17  
 [*Translation #1*](https://hc.instructure.com/courses/3462/assignments/28248) *Due*  
 **Today's topic:** Unit 25, part 1 (adjectives with variant stems, numerals)  
-**HW:** [Unit 25, I.1-4, II.1-2](https://hc.instructure.com/courses/3462/assignments/28217)  
+**HW:** [Unit 25, I.1-4, II.2, 4](https://hc.instructure.com/courses/3462/assignments/28217)  
 
 ## Friday, February 19  
 [*Composition #1*](https://hc.instructure.com/courses/3462/assignments/30854) *Due*  
