@@ -86,6 +86,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 15  
 [*Quiz #2*](https://hc.instructure.com/courses/3462/assignments/30880) *Due*  
 **Today's topic:** Unit 24 (athematic aorists)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1X8a5MmvO15rFJMDKBZfu9QZoNAc3EAwk/view?usp=sharing)  
 **HW:** [Unit 24, I.1-5, II.1-5, III.1-2](https://hc.instructure.com/courses/3462/assignments/28216)  
 
 ## Wednesday, February 17  
