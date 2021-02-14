@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-include:          ['_pages', '_translations', '_compositions', '_hw-answers']
+include:          ['_pages', '_translations', '_compositions', '_hw-answers', '_subpages']
 
 # Permalinks
 permalink:        pretty
