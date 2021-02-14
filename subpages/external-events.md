@@ -15,7 +15,7 @@ order: 1
 
 ### Hades Twitch Streams
 * **Dates and times**: 1) Thursday, 2/25, at 7pm; 2) Thursday, 3/25, at 7pm; 3) Wednesday, 4/28, at 7pm
-* **What it is**: I'll be streaming playthroughs of the video game *Hades* on my [Twitch channel](https://twitch.tv/thedancinggrad). The video game involves Zagreus, the son of Hades, trying to break free from the Underworld, with some help from the ancient Greek Olympian gods (and some chthonic gods trying to prevent him fron escaping).
+* **What it is**: I'll be streaming playthroughs of the video game *Hades* on my [Twitch channel](https://twitch.tv/thedancinggrad). The video game involves Zagreus, the son of Hades, trying to break free from the Underworld, with some help from the ancient Greek Olympian gods (and some chthonic gods trying to prevent him from escaping).
 * **Assignment**: During each stream, I'll be offering "fun facts" about each of the Olympian and chthonic deities that I run into. Collect up to 10 fun facts and the gods that they're about and email your list to me for 1 point per fact, up to 10 points per stream.
 * **Total possible points**: up to 10 per stream
 
