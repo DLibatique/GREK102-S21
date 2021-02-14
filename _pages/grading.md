@@ -36,6 +36,8 @@ Throughout the semester, there will be a number of completely optional events th
 * **Philoctetes** ***or*** **Oidipous Tyrannos** ***assignments***. Various assignments, including reader response sheets and reflection prompts based on translations of the Sophoclean plays *Philoctetes* and *Oidipous Tyrannos*, will be assigned throughout the semester with point totals to be determined.
 * **Philoctetes** ***Discussion with Prof. Emily Austin***. Prof. Emily Austin of the University of Chicago will be visiting with our class at 4pm (EST) on Thursday, March 18, to discuss the play *Philoctetes* and the themes of isolation and solitude (unfortunately timely themes for the current environment). If you attend the discussion, you can write a reflection afterwards to earn points. Details to follow.
 
+Check out full details of the external events and assignments [on this page](schedule).
+
 ### Final Semester Tally
 
 Homework, quizzes, exams, translations, and compositions will add up to a possible maximum of **1,020 points** throughout the semester; points from external events and assignments will be added into your total point pool, equivalent to points earned through the core five assessment types. The following list indicates the point ranges for semester-end grade levels:
