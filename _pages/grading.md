@@ -36,7 +36,7 @@ Throughout the semester, there will be a number of completely optional events th
 * **Philoctetes** ***or*** **Oidipous Tyrannos** ***assignments***. Various assignments, including reader response sheets and reflection prompts based on translations of the Sophoclean plays *Philoctetes* and *Oidipous Tyrannos*, will be assigned throughout the semester with point totals to be determined.
 * **Philoctetes** ***Discussion with Prof. Emily Austin***. Prof. Emily Austin of the University of Chicago will be visiting with our class at 4pm (EST) on Thursday, March 18, to discuss the play *Philoctetes* and the themes of isolation and solitude (unfortunately timely themes for the current environment). If you attend the discussion, you can write a reflection afterwards to earn points. Details to follow.
 
-Check out full details of the external events and assignments [on this page](schedule).
+Check out full details of the external events and assignments [on this page](external).
 
 ### Final Semester Tally
 
