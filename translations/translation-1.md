@@ -33,7 +33,7 @@ order: 1
 
 ### Vocabulary (alphabetical order)
 
-* Δημήτερ, Δημήτερος, f. - Demeter (goddess of agriculture, proper name)  
+* Δημήτηρ, Δημήτερος, f. - Demeter (goddess of agriculture, proper name)  
 * Ἐλευσίς, Ἐλευσῖνος, f. - Eleusis (a city sacred to Demeter, place name)  
 * καταναλίσκω, καταναλώσω, κατηνάλωσα - to consume  
 * κόκκος, -ου, m. - seed  
