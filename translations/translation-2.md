@@ -7,7 +7,7 @@ order: 2
 
 **Instructions**: *Translate the paragraph of Greek below into idiomatic, grammatically-correct English (20 pts.), and answer the grammar questions that follow (10 pts.). Make sure to use the given notes (keyed to words in bold in the text) and the given vocabulary items to help. Any vocabulary that you cannot find in the list below can be found in the Greek-English glossary in Mastronarde (pp. 451-467). Vocabulary in this translation is not limited to the first 31 units of Mastronarde, so there* will *be words used that you will not have memorized yet.*
 
-Προμηθεὺς δὲ ἐξ ὕδατος καὶ γῆς ἀνθρώπους πλάσας ἔδωκεν αὐτοῖς πῦρ, λάθρᾳ Διὸς ἐν νάρθηκι κρύψας. **ὡς** δὲ **ᾔσθετο** Ζεύς, ἐπέταξεν Ἡφαίστῳ τῷ Καυκάσῳ ὄρει τὸ σῶμα Προμηθέως προσηλῶσαι· ἐν δὴ τούτῳ προσηλωθεὶς Προμηθεὺς πολλὰ ἔτη ἔμενε· **καθʼ ἑκάστην δὲ ἡμέραν** ἀετὸς, **ἐφιπτάμενος** αὐτῷ, τοὺς λοβοὺς ἐνέμετο, τοῦ ἥπατος αὐξανομένου **διὰ νυκτός**. καὶ Προμηθεὺς μὲν, πυρὸς **κλαπέντος**, δίκην ἔτινε ταύτην, μέχρι Ἡρακλῆς αὐτὸν ὕστερον ἔλυσεν.
+Προμηθεὺς δὲ ἐξ ὕδατος καὶ γῆς ἀνθρώπους πλάσας ἔδωκεν αὐτοῖς πῦρ, λάθρᾳ Διὸς ἐν νάρθηκι κρύψας. **ὡς** δὲ **ᾔσθετο** Ζεύς, ἐπέταξεν Ἡφαίστῳ τῷ Καυκάσῳ ὄρει τὸ σῶμα Προμηθέως προσηλῶσαι· ἐν τούτῳ προσηλωθεὶς Προμηθεὺς πολλὰ ἔτη ἔμενε· **καθʼ ἑκάστην δὲ ἡμέραν** ἀετὸς, **ἐφιπτάμενος** αὐτῷ, τοὺς λοβοὺς ἐνέμετο, τοῦ ἥπατος αὐξανομένου **διὰ νυκτός**. καὶ Προμηθεὺς μὲν, πυρὸς **κλαπέντος**, δίκην ἔτινε ταύτην, μέχρι Ἡρακλῆς αὐτὸν ὕστερον ἔλυσεν.
 
 ### Grammar Questions (1 pt. each)
 
@@ -38,6 +38,7 @@ order: 2
 * πλάσσω, πλάσω, ἔπλασα - to create, mold, fashion
 * λάθρᾳ (adverb) - without the knowledge of (genitive)
 * Ζεύς, Διός, m. - Zeus (king of the gods; proper name)
+* νάρθηξ, νάρθηκος, m. - fennel (a plant)
 * ἐπιτάσσω, ἐπιτάξω, ἐπέταξα - to command (+ dative and infinitive)
 * Ἡφαίστος, -ου, m. - Hephaestus (the blacksmith god; proper name)
 * Καυκάσον ὄρος, Καυκάσου ὄρους, n. - Mount Caucasus (place name)
