@@ -10,18 +10,17 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, February 15
-* complete [overview assignment](https://hc.instructure.com/courses/3462/assignments/28215)
-* complete [Quiz #2](https://hc.instructure.com/courses/3462/assignments/30880)
-* (optional) Read Unit 24 of Mastronarde
+### Due: Monday, February 22
+* complete [Unit 25, I.7, 10; II.3, 5](https://hc.instructure.com/courses/3462/assignments/28218)
+* complete [Quiz #3](https://hc.instructure.com/courses/3462/assignments/30881)
+* (optional) Read Unit 26 of Mastronarde
 
-### Due: Wednesday, February 17
-* complete [Unit 24, I.1-5, II.1-5, III.1-2](https://hc.instructure.com/courses/3462/assignments/28216)  
-* [*Translation #1*](https://hc.instructure.com/courses/3462/assignments/28248) Due
+### Due: Wednesday, February 24
+* complete [Unit 26, I.1-4; II.1-6; III.1-4](https://hc.instructure.com/courses/3462/assignments/28219)  
+* (optional) Read Unit 27 of Mastronarde
 
-### Due: Friday, February 19
-* complete [Unit 25, I.1-4, II.1-2](https://hc.instructure.com/courses/3462/assignments/28217)  
-* [*Composition #1*](https://hc.instructure.com/courses/3462/assignments/30854) Due
+### Due: Friday, February 26
+* complete [Unit 27, I.1-3, II.1-3](https://hc.instructure.com/courses/3462/assignments/28220)   
 
 ***
 
