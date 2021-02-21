@@ -92,11 +92,13 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Wednesday, February 17  
 [*Translation #1*](https://hc.instructure.com/courses/3462/assignments/28248) *Due*  
 **Today's topic:** Unit 25, part 1 (adjectives with variant stems, numerals)  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1XIHvAq27JzrOfdcnjFGvUUeHo03opq0X/view?usp=sharing)
 **HW:** [Unit 25, I.1-4, II.2, 4](https://hc.instructure.com/courses/3462/assignments/28217)  
 
 ## Friday, February 19  
 [*Composition #1*](https://hc.instructure.com/courses/3462/assignments/30854) *Due*  
 **Today's topic:** Unit 25, part 2 - result constructions  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1XIHvAq27JzrOfdcnjFGvUUeHo03opq0X/view?usp=sharing)
 **HW:** [Unit 25, I.7, 10; II.3, 5](https://hc.instructure.com/courses/3462/assignments/28218)  
 
 [Return to top.](#top)
@@ -108,6 +110,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, February 22  
 [*Quiz #3*](https://hc.instructure.com/courses/3462/assignments/30881) *Due*  
 **Today's topic:** Unit 26 (participles: formation and declension)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1XnyfaclQ3qvLTBqqU8Z8XhWv4RiCDBW3/view?usp=sharing)
 **HW:** [Unit 26, I.1-4; II.1-6; III.1-4](https://hc.instructure.com/courses/3462/assignments/28219)  
 
 ## Wednesday, February 24  
