@@ -116,12 +116,12 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Wednesday, February 24  
 **Today's topic:** Unit 27, part 1 (participle uses)  
 **Slideshow**: [Click here](https://drive.google.com/file/d/1YsqrVc9Z3py-bIeKxe9998gU2MUx7mWD/view?usp=sharing )  
-**HW:** [Unit 27, I.1-3, II.1-3](https://hc.instructure.com/courses/3462/assignments/28220)  
+**HW:** [Unit 27, I.2-4, II.3, 5-6](https://hc.instructure.com/courses/3462/assignments/28220)  
 
 ## Friday, February 26  
 **Today's topic:** Unit 27, part 2 (more participle uses)  
 **Slideshow**: [Click here](https://drive.google.com/file/d/1YsqrVc9Z3py-bIeKxe9998gU2MUx7mWD/view?usp=sharing )  
-**HW:** [Unit 27, I.4-6, II.4-6](https://hc.instructure.com/courses/3462/assignments/28221)  
+**HW:** [Unit 27, I.1, 5-6; II.1-2, 4](https://hc.instructure.com/courses/3462/assignments/28221)  
 
 [Return to top.](#top)
 
