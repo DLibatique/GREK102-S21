@@ -10,8 +10,9 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Friday, February 26
-* complete [Unit 27, I.2-4; II.3, 5-6](https://hc.instructure.com/courses/3462/assignments/28220)   
+### Due: Monday, March 1
+* complete [Unit 27, I.1, 5-6; II.1-2, 4](https://hc.instructure.com/courses/3462/assignments/28221)
+* complete [*Quiz #4*](https://hc.instructure.com/courses/3462/assignments/30882)  
 
 ***
 
