@@ -12,23 +12,43 @@ order: 2
 
 2. Your second sentence should express: They were just, but the other human beings so wronged the gods that Zeus punished them.
   * a μέν ... δέ construction
-  * a result clause (Note: be careful here -- what kind of result clause do you need?)
+  * a result clause
 
-3. Your third sentence should express: He flooded the earth by sending a storm such that many people perished, though Deucalion and Pyrrha were saved.
-  * a participle in the appropriate tense and voice
-  * a result clause (Note: be careful here -- what kind of result clause do you need?)
+3. Your third sentence should express: He flooded the earth in order to kill many people, although Deucalion and Pyrrha were saved.
+  * a participle in the appropriate tense to render "in order to kill"
   * a substantive adjective for "many people"
   * a genitive absolute with an aorist passive participle
 
-4. Your fourth sentence should express: After hiding themselves in a .
-  * a middle participle in the appropriate tense for "after hiding themselves"
-  * a complementary infinitive (Unit 9.2.a)
+4. Your fourth sentence should express: After the storm had stopped, Deucalion and Pyrrha began making a sacrifice to Zeus.
+  * a genitive absolute with an aorist middle participle
+  * a supplemental participle to render "making a sacrifice"
+  * the form Διί to render "to Zeus"
 
-### Vocabulary (in alphabetical order)
+5. Your fifth sentence should express: In return for this deed, Zeus ordered them to hurl stones above their heads.
+  * the preposition ἀντί to render "in return for"
+  * a demonstrative adjective
+  * an aorist infinitive of ἐφίημι to render "to hurl"
 
+6. Your sixth sentence should express: The stones which had been thrown became new human beings who were more just than the earlier (human beings).
+  * a form of the verb βάλλω as an attributive participle
+  * a relative clause (not a participial phrase) to render the "who" clause
+  * a comparative adjective
+  * a genitive of comparison
+
+### Vocabulary (in order of appearance)
+
+* Δευκαλίων, Δευκαλίωνος, m. - Deucalion (proper name)
+* Προμηθεύς, Προμηθέως, m. - Prometheus (proper name)
+* Πύρρα, -ας, f. - Pyrrha (proper name)
+* Ἐπιμηθεύς, Ἐπιμηθέως, m. - Epimetheus (proper name)
+* Πανδώρα, -ας, f. - Pandora (proper name)
+* Ζεύς, Διός, m. - Zeus (king of the gods; proper name)
 * ζημιόω, ζημιώσω, ἐζημίωσα - to punish
-* ζάλη, -ης, f. - storm
-* ἀπόλλυμι, ἀπολέσω, ἀπώλεσα - to destroy utterly; (middle) to perish, die
-* χθών, χθονός, f. - earth
 * κατακλύζω, κατακλύσω, κατέκλυσα - to flood, inundate
-* σῴζω, σώσω, ἐσωσάμην (6th pp: ἐσώθην) - to save
+* χθών, χθονός, f. - earth
+* σῴζω, σώσω, ἔσωσα (6th pp: ἐσώθην) - to save
+* ὄμβρος, -ου, m. - (rain) storm
+* παύω, παύσω, ἔπαυσα - to stop, cease
+* θύω, θύσω, ἔθυσα - to make a sacrifice
+* κεφαλή, -ῆς, f. - head
+* νέος, -α, -ον - new
