@@ -132,6 +132,7 @@ The **homework (HW)** listed under any given date (e.g., “Unit 24, I.1-5, II.1
 ## Monday, March 1  
 [*Quiz #4*](https://hc.instructure.com/courses/3462/assignments/30882) *Due*  
 **Today's topic:** Unit 28 (even more participle uses, οἶδα)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1ZeMspQ6rSLiqLqlLjFRwWUaJ_XDoNlKJ/view?usp=sharing)  
 **HW:** [Unit 28, I.1-3, 7-8](https://hc.instructure.com/courses/3462/assignments/28222)  
 
 ## Wednesday, March 3  
