@@ -5,7 +5,7 @@ permalink: composition-2
 order: 2
 ---
 
-**Instructions**: *Compose a paragraph of Greek according to the instructions below. The list under each sentence indicates the morphological and syntactic structures that that sentence should include, but the list is not exhaustive. All vocabulary words that you will need can be found either below or in the English-Greek glossary in Mastronarde (pp. 468-480).*
+**Instructions**: *Compose a paragraph of Greek according to the instructions below. The list under each sentence indicates the morphological and syntactic structures that that sentence should include, but the list is not exhaustive. All vocabulary words that you will need can be found either below or in the English-Greek glossary in Mastronarde (pp. 468-480). This assignment is due* **by 11:59pm on Friday, March 19.**
 
 1. Your first sentence should express: Deucalion, the son of Prometheus, married Pyrrha, the daughter of Epimetheus and Pandora.
   * an aorist tense verb
