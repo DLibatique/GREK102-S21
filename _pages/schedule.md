@@ -152,6 +152,7 @@ Exam #1 Review Day
 ## Monday, March 8  
 [*Exam #1*](https://hc.instructure.com/courses/3462/assignments/30875) *Due*  
 **Today's topic:** Unit 30, part 1 (alpha and omicron contract verbs)  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1_ReFYNXpt92FUp308N5bcR3ddED6Zv9O/view?usp=sharing)    
 **HW:** [Unit 30, I.1-5, II.1-5](https://hc.instructure.com/courses/3462/assignments/28225)  
 
 ## Wednesday, March 10  

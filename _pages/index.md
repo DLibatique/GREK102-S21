@@ -11,7 +11,7 @@ permalink: /
 ## NEXT DEADLINES
 
 ### Due: Monday, March 8
-* complete [*Exam #1*](https://hc.instructure.com/courses/3462/assignments/30875) *Due*  
+* complete [*Exam #1*](https://hc.instructure.com/courses/3462/assignments/30875)  
 * optional: read Unit 30 of Mastronarde
 
 ### Due: Wednesday, March 10
