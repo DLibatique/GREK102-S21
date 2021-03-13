@@ -29,7 +29,7 @@ order: 1
 * **Date and time**: Thursday, 3/18, 4-5pm
 * **What it is**: Prof. Emily Austin of the University of Chicago will come visit GREK 102 to discuss Sophocles' play *Philoctetes* and its theme of isolation.
 * **Assignment**: Attend the discussion, and write a 1-3pp. double-spaced response that summarizes the major points of the discussion and answers the following question: how does the theme of isolation in *Philoctetes* resonate with what's happening in the world today? Submit your response via email.
-* **Total possible points**: 20
+* **Total possible points**: 30
 
 ### *Oedipus Tyrannus* Reader Response
 * TBD
