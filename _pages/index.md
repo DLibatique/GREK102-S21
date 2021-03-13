@@ -10,15 +10,17 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, March 8
-* complete [*Exam #1*](https://hc.instructure.com/courses/3462/assignments/30875)  
-* optional: read Unit 30 of Mastronarde
+### Due: Monday, March 15
+* complete [*Quiz #5*](https://hc.instructure.com/courses/3462/assignments/30883)  
+* complete [Unit 31, II.2-4, III.1-2](https://hc.instructure.com/courses/3462/assignments/28227)
 
-### Due: Wednesday, March 10
-* complete [Unit 30, I.1-5, II.1-5](https://hc.instructure.com/courses/3462/assignments/28225)
+### Due: Wednesday, March 17
+* complete [Unit 32, I.1-6, II.1-4](https://hc.instructure.com/courses/3462/assignments/28228)
+* complete [Translation #2](https://hc.instructure.com/courses/3462/assignments/28249)
 
-### Due: Friday, March 12
-* complete [Unit 30, III.1-4](https://hc.instructure.com/courses/3462/assignments/28226)  
+### Due: Friday, March 19
+* complete [Unit 32, III.2-4, IV.2-3](https://hc.instructure.com/courses/3462/assignments/28229)
+* complete [*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855)  
 
 ***
 
