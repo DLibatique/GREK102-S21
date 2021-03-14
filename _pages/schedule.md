@@ -157,10 +157,12 @@ Exam #1 Review Day
 
 ## Wednesday, March 10  
 **Today's topic:** Unit 30, part 2 (genitive and dative)  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1_ReFYNXpt92FUp308N5bcR3ddED6Zv9O/view?usp=sharing)    
 **HW:** [Unit 30, III.1-4](https://hc.instructure.com/courses/3462/assignments/28226)  
 
 ## Friday, March 12  
 **Today's topic:** Unit 31 (adjective and adverb comparison)  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1cLrJjSj272Yb3NwU5P6GrCLO9xEz8SI6/view?usp=sharing)  
 **HW:** [Unit 31, II.2-4, III.1-2](https://hc.instructure.com/courses/3462/assignments/28227)  
 
 [Return to top.](#top)
@@ -172,11 +174,13 @@ Exam #1 Review Day
 ## Monday, March 15  
 [*Quiz #5*](https://hc.instructure.com/courses/3462/assignments/30883) *Due*  
 **Today's topic:** Unit 32, part 1 (subjunctive: formation)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1fixHrcsqBdESoH6LIy4x4895MAt-YBdG/view?usp=sharing)  
 **HW:** [Unit 32, I.1-6, II.1-4](https://hc.instructure.com/courses/3462/assignments/28228)  
 
 ## Wednesday, March 17  
 [*Translation #2*](https://hc.instructure.com/courses/3462/assignments/28249) *Due*  
 **Today's topic:** Unit 32, part 2 (subjunctive: uses)  
+**Slideshow**: [Click here](https://drive.google.com/file/d/1fixHrcsqBdESoH6LIy4x4895MAt-YBdG/view?usp=sharing)  
 **HW:** [Unit 32, III.2-4, IV.2-3](https://hc.instructure.com/courses/3462/assignments/28229)  
 
 ## Friday, March 19  
