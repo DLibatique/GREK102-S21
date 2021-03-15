@@ -19,7 +19,7 @@ permalink: /
 * complete [Translation #2](https://hc.instructure.com/courses/3462/assignments/28249)
 
 ### Due: Friday, March 19
-* complete [Unit 32, III.2-4, IV.2-3](https://hc.instructure.com/courses/3462/assignments/28229)
+* complete [Unit 32, III.2-4, IV.1-2](https://hc.instructure.com/courses/3462/assignments/28229)
 * complete [*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855)  
 
 ***
