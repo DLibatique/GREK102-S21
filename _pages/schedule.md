@@ -181,7 +181,7 @@ Exam #1 Review Day
 [*Translation #2*](https://hc.instructure.com/courses/3462/assignments/28249) *Due*  
 **Today's topic:** Unit 32, part 2 (subjunctive: uses)  
 **Slideshow**: [Click here](https://drive.google.com/file/d/1fixHrcsqBdESoH6LIy4x4895MAt-YBdG/view?usp=sharing)  
-**HW:** [Unit 32, III.2-4, IV.2-3](https://hc.instructure.com/courses/3462/assignments/28229)  
+**HW:** [Unit 32, III.2-4, IV.1-2](https://hc.instructure.com/courses/3462/assignments/28229)  
 
 ## Friday, March 19  
 [*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855) *Due*  
