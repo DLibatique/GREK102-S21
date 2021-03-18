@@ -10,17 +10,13 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, March 15
-* complete [*Quiz #5*](https://hc.instructure.com/courses/3462/assignments/30883)  
-* complete [Unit 31, II.2-4, III.1-2](https://hc.instructure.com/courses/3462/assignments/28227)
-
-### Due: Wednesday, March 17
-* complete [Unit 32, I.1-6, II.1-4](https://hc.instructure.com/courses/3462/assignments/28228)
-* complete [Translation #2](https://hc.instructure.com/courses/3462/assignments/28249)
-
 ### Due: Friday, March 19
 * complete [Unit 32, III.2-4, IV.1-2](https://hc.instructure.com/courses/3462/assignments/28229)
 * complete [*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855)  
+
+### Due: Monday, March 22
+* complete [*Quiz #6*](https://hc.instructure.com/courses/3462/assignments/30884)  
+* complete [Unit 33, I.1-8, II.2, 4-5](https://hc.instructure.com/courses/3462/assignments/28230)  
 
 ***
 

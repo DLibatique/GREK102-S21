@@ -186,7 +186,8 @@ Exam #1 Review Day
 ## Friday, March 19  
 [*Composition #2*](https://hc.instructure.com/courses/3462/assignments/30855) *Due*  
 **Today's topic:** Unit 33 (optative: formation)  
-**HW:** [Unit 33, I.1-5, II.1-5](https://hc.instructure.com/courses/3462/assignments/28230)  
+**Slideshow:** [Click here](https://drive.google.com/file/d/1jcnB29RBa-_vHtJ_5lWExtiRn0g4urpe/view?usp=sharing)  
+**HW:** [Unit 33, I.1-8, II.2, 4-5](https://hc.instructure.com/courses/3462/assignments/28230)  
 
 [Return to top.](#top)
 
