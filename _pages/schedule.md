@@ -198,11 +198,11 @@ Exam #1 Review Day
 ## Monday, March 22  
 [*Quiz #6*](https://hc.instructure.com/courses/3462/assignments/30884) *Due*  
 **Today's topic:** Unit 34, part 1 (optative: uses)  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28231)  
+**HW:** [Unit 34, III.1-4; IV.5](https://hc.instructure.com/courses/3462/assignments/28231)  
 
 ## Wednesday, March 24  
 **Today's topic:** Unit 34, part 2 (indirect discourse with ὅτι, indirect questions, indefinite relatives)  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28232)  
+**HW:** [Unit 34, IV.1-4](https://hc.instructure.com/courses/3462/assignments/28232)  
 
 ## Friday, March 26  
 **Today's topic:** Unit 35 (conditionals)  
