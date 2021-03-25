@@ -207,8 +207,8 @@ Exam #1 Review Day
 **HW:** [Unit 34, IV.1-4](https://hc.instructure.com/courses/3462/assignments/28232)  
 
 ## Friday, March 26  
-**Today's topic:** Unit 35 (conditionals)  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28233)  
+**Today's topic:** Unit 35, part 1 (conditionals)  
+**HW:** [Unit 35, I.1, II.1, 7 (I.2, II.2 if we cover future conditionals on Friday)](https://hc.instructure.com/courses/3462/assignments/28233)  
 
 [Return to top.](#top)
 
@@ -218,7 +218,7 @@ Exam #1 Review Day
 
 ## Monday, March 29  
 [*Quiz #7*](https://hc.instructure.com/courses/3462/assignments/30885) *Due*  
-**Today's topic:** Unit 35, part 2 OR Unit 36? (indicative with ἄν, correlatives, particles)  
+**Today's topic:** Unit 35, part 2 (conditionals) and Unit 36 (correlatives, particles)   
 **HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28234)  
 
 
