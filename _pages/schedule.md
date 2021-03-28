@@ -219,7 +219,7 @@ Exam #1 Review Day
 ## Monday, March 29  
 [*Quiz #7*](https://hc.instructure.com/courses/3462/assignments/30885) *Due*  
 **Today's topic:** Unit 35, part 2 (conditionals) and Unit 36 (correlatives, particles)   
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28234)  
+**HW:** [Unit 35, I.2; II.4, 9; Unit 36, II.2-3](https://hc.instructure.com/courses/3462/assignments/28234)  
 
 
 ## Wednesday, March 31  
