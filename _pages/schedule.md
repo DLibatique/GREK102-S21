@@ -208,7 +208,7 @@ Exam #1 Review Day
 
 ## Friday, March 26  
 **Today's topic:** Unit 35, part 1 (conditionals)  
-**HW:** [Unit 35, I.1, II.1, 7 (I.2, II.2 if we cover future conditionals on Friday)](https://hc.instructure.com/courses/3462/assignments/28233)  
+**HW:** [Unit 35, I.1, II.1, 7](https://hc.instructure.com/courses/3462/assignments/28233)  
 
 [Return to top.](#top)
 
