@@ -12,21 +12,19 @@ order: 3
 
 2. Your second sentence should express: If I had done wrong, I would not have brought into this trial the people who saw the things that happened.
   * an appropriate condition
-  * one attributive participle phrase to express "these people who saw" (use the aorist active)
+  * one attributive participle phrase to express "the people who saw" (use the aorist active)
   * one attributive participle phrase to express "the things that happened" (use the aorist middle)
 
 3. Your third sentence should express: You learned what I did when I discovered this man who was sleeping with my wife.
-  * an indirect interrogative pronoun
+  * an indirect interrogative pronoun to begin an indirect question
   * an optative verb
   * two participles
 
 4. Your fourth sentence should express: I was afraid that this man would harm my household.
-  * an optative verb.
+  * a subjunctive verb.
 
-5. Your fifth sentence should express: In return for this deed, Zeus ordered them to hurl stones above their heads.
-  * the preposition ἀντί to render "in return for"
-  * a demonstrative adjective
-  * an aorist infinitive of ἐφίημι to render "to hurl"
+5. Your fifth sentence should express: If an adulterer will not be punished, no one will respect marriage.
+  * an appropriate condition
 
 6. Your sixth sentence should express: If only you might consider me innocent!
   * a wish with a verb in the appropriate mood
