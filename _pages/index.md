@@ -10,12 +10,13 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Wednesday, March 31
-* complete [Unit 35, I.2; II.4, 9; Unit 36, II.2-3](https://hc.instructure.com/courses/3462/assignments/28234)
-
 ### Due: Wednesday, April 7
 * complete [Unit 37, I.1-6, II.1-6](https://hc.instructure.com/courses/3462/assignments/28235)
-* start review for Exam 2
+
+### Due: Friday, April 9
+* complete [Unit 38, any in III](https://hc.instructure.com/courses/3462/assignments/28236)
+* submit topics and questions for me to review in class for Exam 2
+* begin work on Translation 3 and Composition 3
 
 ***
 

@@ -226,6 +226,7 @@ Exam #1 Review Day
 
 ## Wednesday, March 31  
 **Today's topic:** Unit 37 (perfect active)  
+**Slideshow:** [click here](https://drive.google.com/file/d/1tPhw0_BzuwzabwJvzicsXCfa9wjTiQ6A/view?usp=sharing)  
 **HW:** [Unit 37, I.1-6, II.1-6](https://hc.instructure.com/courses/3462/assignments/28235)  
 
 [Return to top.](#top)
@@ -240,7 +241,8 @@ Exam #1 Review Day
 
 ## Wednesday, April 7  
 **Today's topic:** Unit 38 (perfect middle/passive)  
-**HW:** [Unit 38, I.1-6, II.1-6](https://hc.instructure.com/courses/3462/assignments/28236)  
+**Slideshow:** [click here](https://drive.google.com/file/d/1wHK8vI9-2UrH2etn2gfSBFhYsfMQO5O3/view?usp=sharing)  
+**HW:** [Unit 38, any in III](https://hc.instructure.com/courses/3462/assignments/28236)  
 
 ## Friday, April 9  
 Exam #2 Review Day  
