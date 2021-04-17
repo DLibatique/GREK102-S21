@@ -256,17 +256,17 @@ Exam #2 Review Day
 ## Monday, April 12  
 [*Exam #2*](https://hc.instructure.com/courses/3462/assignments/30876) *Due*  
 Begin *Oidipous Tyrannos*  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28238)
+**HW:** [Morphology review](https://hc.instructure.com/courses/3462/assignments/28238)
 
 ## Wednesday, April 14  
 [*Translation #3*](https://hc.instructure.com/courses/3462/assignments/28250) *Due*  
 *OT*  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28239)  
+**HW:** [Syntax Review](https://hc.instructure.com/courses/3462/assignments/28239)  
 
 ## Friday, April 16  
 [*Composition #3*](https://hc.instructure.com/courses/3462/assignments/30856) *Due*  
 *OT*  
-**HW:** [(TBD)](https://hc.instructure.com/courses/3462/assignments/28240)  
+**HW:** [*OT* Response](https://hc.instructure.com/courses/3462/assignments/28240)  
 
 [Return to top.](#top)
 
