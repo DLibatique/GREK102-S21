@@ -10,9 +10,7 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, April 19
-* complete [*Quiz #8*](https://hc.instructure.com/courses/3462/assignments/30886)
-* complete [*OT* Response](https://hc.instructure.com/courses/3462/assignments/28241)
+### See Canvas!
 
 ***
 
